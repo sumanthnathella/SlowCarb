@@ -68,7 +68,7 @@ nav:
   - Meals & recipes:
       - Keep, modify, replace: meals/dishes.md
       - Everyday recipes: meals/recipes.md
-      - Chipotle & CAVA: meals/eating-out.md
+      - Eating out: meals/eating-out.md
       - Your first week: meals/starter-week.md
   - Grocery guide:
       - Fresh & frozen shopping: groceries/index.md

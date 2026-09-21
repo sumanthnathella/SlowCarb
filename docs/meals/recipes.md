@@ -176,6 +176,43 @@ No yam, taro, raw banana, potato, or yogurt. Protein is low, only a few grams pe
 
 Ferriss explicitly lists kimchi. Choose a confirmed vegetarian and gluten-free product: traditional versions can contain fish sauce or shrimp, and some use wheat-containing ingredients. Follow the product's refrigeration and storage instructions. A little rice paste used in a kimchi recipe is not treated here as a reason to ban a small kimchi side; it is different from making rice the meal's base. Small culinary quantities of lemon/lime are a practical adaptation to the author's fruit rule.
 
+## Peanut sundal with carrot and tomato
+
+**Serves 2 as a side.** Scheduled with Thursday's usili dinner and Saturday's zucchini noodles in the [weekly Calendar](../calendar.md). Boiled peanuts are energy-dense; the measured **¼ cup shelled peanuts per serving** keeps this a side, not the meal's protein anchor.
+
+- ½ cup shelled **boiled peanuts** total, divided into ¼ cup per serving — simmer raw shelled peanuts until tender, or drain canned boiled peanuts
+- 1 small carrot, about 75 g, grated or finely chopped
+- 1 small tomato, about 100 g, chopped
+- A handful of coriander leaves, chopped
+- A squeeze of lime juice, about 1–2 teaspoons
+- Chilli powder and salt to taste
+- Optional: a quick tempering of 1 teaspoon oil with mustard seeds and curry leaves
+
+1. If starting with raw shelled peanuts, simmer them in water until tender — often 45–60 minutes depending on the peanuts. Drain and cool. Canned boiled peanuts only need draining; rinse if they are heavily salted.
+2. Toss the peanuts with carrot, tomato, coriander, lime juice, chilli powder, and salt. Add the optional tempering if you like.
+3. Serve fresh. Refrigerate leftovers promptly in a covered container and use within a day or two; the tomato softens over time.
+
+**Approximate protein:** about 6 g per ¼-cup serving of boiled peanuts; the vegetables add little. Keep a substantial pulse or egg dish as the meal's protein. Salted boiled peanuts can already be high in sodium — taste before adding salt, and keep the portion measured rather than eating from a large bowl.
+
+## Zucchini noodles with peppers and lentil sauce
+
+**Serves 2.** Scheduled for Saturday dinner in the [weekly Calendar](../calendar.md). Spiralized zucchini stands in for grain noodles; the red-lentil tomato sauce supplies the protein. Cook the zucchini only briefly so it stays firm rather than watery.
+
+- ½ cup dry red lentils (masoor dal), about 100 g, rinsed
+- 300 g tomato, chopped, or about 1 cup crushed tomato without added sugar
+- ½ teaspoon cumin, ¼ teaspoon turmeric, chilli and salt to taste
+- 2 medium zucchini, about 400 g, spiralized or cut into thin strips
+- 1 capsicum/bell pepper, sliced
+- 2–3 garlic cloves, sliced
+- 2 teaspoons oil
+- Optional: chopped coriander and a squeeze of lime
+
+1. Simmer the lentils with tomato, cumin, turmeric, chilli, and about 1½ cups water until fully soft and saucy, roughly 15–20 minutes. Mash lightly and season. No cream, cheese, or sugar is needed.
+2. In a wide pan, warm the oil and briefly cook the garlic and capsicum. Add the zucchini noodles and toss for only 1–2 minutes until just tender; overcooking releases their water.
+3. Plate the noodles and ladle the lentil sauce over. Finish with coriander or lime if you like.
+
+**Approximate protein:** roughly 10–12 g per serving from the lentils, varying with the dal and portion. Add spiced boiled eggs or a pulse side for a larger protein serving. Jarred pasta sauces often contain added sugar or cheese — check labels if you use one instead of the lentil sauce.
+
 ## Cooking and storage
 
 !!! warning "Store batches safely"

@@ -66,6 +66,7 @@ class SiteTests(unittest.TestCase):
             "suran", "millet", "pesarattu", "aviyal", "sambhar mix", "frozen",
             "guvar", "ridge gourd", "papdi lilva", "wheat flour",
             "hemp hearts", "bagel seasoning", "spinach omelette", "shakshuka",
+            "zucchini", "peanut sundal", "skhug", "harissa",
         ):
             with self.subTest(term=term):
                 self.assertIn(term, text)
@@ -105,15 +106,24 @@ class SiteTests(unittest.TestCase):
             with self.subTest(phrase=phrase):
                 self.assertIn(phrase, text)
 
-    def test_starter_week_has_fixed_breakfast_without_tofu_meals(self):
+    def test_starter_week_has_fixed_breakfast_and_limited_tofu(self):
         plan = (DOCS / "meals" / "starter-week.md").read_text()
         rows = [line for line in plan.splitlines() if re.match(r"\| [1-7] \|", line)]
         self.assertEqual(len(rows), 7)
+        tofu_lunches = sundal_dinners = 0
         for row in rows:
             with self.subTest(row=row):
                 self.assertIn("Fixed breakfast", row.split("|")[2])
-                self.assertNotIn("tofu", row.casefold())
-        self.assertIn("8 whole eggs + 8 additional whites", plan)
+                self.assertNotIn("tofu", row.split("|")[4].casefold())
+                tofu_lunches += "tofu" in row.split("|")[3].casefold()
+                sundal_dinners += "peanut sundal" in row.split("|")[4].casefold()
+        self.assertEqual(tofu_lunches, 1)
+        self.assertEqual(sundal_dinners, 2)
+        self.assertIn("Office Asian bowl", plan)
+        self.assertIn("Chipotle", plan)
+        self.assertIn("CAVA", plan)
+        self.assertIn("Zucchini noodles with peppers", plan)
+        self.assertIn("10 whole eggs + 8 additional whites", plan)
         self.assertNotIn("1.5 kg", plan)
 
     def test_fixed_breakfast_has_portions_and_protein_caveat(self):
@@ -174,7 +184,7 @@ class SiteTests(unittest.TestCase):
     def test_original_illustrations_are_local_and_accessible(self):
         import xml.etree.ElementTree as ET
 
-        for name in ("breakfast", "dal-vegetables", "egg-dosa-sides", "shakshuka", "chipotle-bowl", "cava-bowl"):
+        for name in ("breakfast", "dal-vegetables", "egg-dosa-sides", "shakshuka", "chipotle-bowl", "cava-bowl", "asian-bowl", "zucchini-noodles"):
             with self.subTest(image=name):
                 path = DOCS / "assets" / "illustrations" / f"{name}.svg"
                 root = ET.fromstring(path.read_text())
@@ -190,13 +200,18 @@ class SiteTests(unittest.TestCase):
 
     def test_restaurant_orders_explain_portions_and_cross_contact(self):
         page = (DOCS / "meals" / "eating-out.md").read_text()
-        for phrase in ("Chipotle", "CAVA", "cross-contact", "two full servings", "18 g", "8 g", "No sofritas", "not a claim that plain falafel contains wheat"):
+        for phrase in (
+            "Chipotle", "CAVA", "cross-contact", "two full servings", "18 g",
+            "8 g", "No sofritas", "not a claim that plain falafel contains wheat",
+            "skhug", "harissa", "red pepper hummus", "Office Asian bowl",
+            "soy sauce contains wheat", "pickled radish",
+        ):
             with self.subTest(phrase=phrase):
                 self.assertIn(phrase, page)
         calendar = (SITE / "calendar" / "index.html").read_text()
         self.assertIn("eating-out", calendar)
-        self.assertIn("illustrations/breakfast.svg", calendar)
-        self.assertIn("illustrations/egg-dosa-sides.svg", calendar)
+        for image in ("breakfast", "egg-dosa-sides", "chipotle-bowl", "cava-bowl", "zucchini-noodles", "shakshuka"):
+            self.assertIn(f"illustrations/{image}.svg", calendar)
 
     def test_workflow_builds_and_checks_before_deployment(self):
         workflow = (ROOT / ".github" / "workflows" / "pages.yml").read_text()

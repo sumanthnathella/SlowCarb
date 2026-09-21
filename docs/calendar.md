@@ -12,7 +12,7 @@ A Monday–Sunday view of the current plan, without fixed dates. Breakfast stays
 
 [Shopping & batch prep](meals/starter-week.md#one-person-shopping-first-three-days){ .md-button }
 [Browse recipes](meals/recipes.md){ .md-button }
-[Chipotle & CAVA orders](meals/eating-out.md){ .md-button }
+[Restaurant & office bowls](meals/eating-out.md){ .md-button }
 
 <div class="breakfast-banner" markdown>
 

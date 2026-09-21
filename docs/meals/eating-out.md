@@ -1,14 +1,14 @@
 ---
-title: Chipotle & CAVA
+title: Eating out
 hide:
   - toc
 ---
 
 <div class="eyebrow">Eating out, without starting over</div>
 
-# Two bowls to keep in your rotation
+# Three bowls to keep in your rotation
 
-These build-your-own orders can replace **lunch or dinner** in the [weekly Calendar](../calendar.md). They are vegetarian, dairy-free-by-design, tofu-free adaptations; **staff still need to confirm current ingredients and gluten cross-contact precautions**. They are not allergen-free guarantees.
+These build-your-own orders can replace **lunch or dinner** in the [weekly Calendar](../calendar.md) — the office Asian bowl appears on Tuesday, Chipotle on Thursday, and CAVA on Friday. They are vegetarian, dairy-free-by-design adaptations; **staff still need to confirm current ingredients and gluten cross-contact precautions**. They are not allergen-free guarantees.
 
 <div class="restaurant-grid" markdown>
 <div class="restaurant-card" markdown>
@@ -34,15 +34,34 @@ These build-your-own orders can replace **lunch or dinner** in the [weekly Calen
 
 ## CAVA: the lentil bowl
 
-**Build it:** greens + a substantial black-lentil portion + Persian cucumber + tomato/onion + a modest hummus scoop. Dressing on the side, only after ingredient checks.
+**Build it:** greens + a substantial black-lentil portion + Persian cucumber + tomato/onion + a modest red-pepper-hummus scoop. Dressing on the side, only after ingredient checks.
 
 **Say this:**
 
-> A build-your-own bowl with greens and a full serving of black lentils if available, no rice. Cucumber, tomato and onion, and a little hummus. No meat, pita, pita crisps, feta, Crazy Feta, tzatziki, or yogurt dressing. Please confirm the ingredients and gluten precautions.
+> A build-your-own bowl with greens and a full serving of black lentils if available, no rice. Cucumber, tomato and onion, and a little red pepper hummus. Skhug or a little harissa on the side. No meat, pita, pita crisps, feta, Crazy Feta, tzatziki, or yogurt dressing. Please confirm the ingredients and gluten precautions.
 
-**Protein check:** the March 2026 guide lists **18 g for its standard black-lentil base serving**, and **2 g for a standard hummus portion**. A half portion of lentils is not the full 18 g. Confirm what you are actually being served rather than treating a greens bowl as automatically high-protein.
+**Protein check:** the March 2026 guide lists **18 g for its standard black-lentil base serving**, and **2 g for a standard hummus portion**. A half portion of lentils is not the full 18 g. Red pepper hummus is a flavor topping — it contains sesame and is not the protein anchor. Confirm what you are actually being served rather than treating a greens bowl as automatically high-protein.
+
+**Dressings:** skhug (also spelled schug or zhug) and plain harissa are oil-based herb/chile condiments — use a modest amount, on the side. The guide lists roughly **80 and 70 calories per listed serving** respectively, and hot harissa vinaigrette is a separate, oilier dressing. Pick one or two, not all of them.
 
 **Leave out:** rice, pita, pita crisps, dairy dips/toppings, sweet dressings, and falafel for the strict version. Falafel is a fried option, not the protein default here. This is not a claim that plain falafel contains wheat.
+
+</div>
+<div class="restaurant-card" markdown>
+
+![Illustration of a tofu and mushroom Asian bowl with spring onions, pickled radish and coriander](../assets/illustrations/asian-bowl.svg){ width="640" height="400" loading="lazy" }
+
+## Office Asian bowl
+
+**Build it:** tofu + mushroom + spring onions + pickled radish + coriander, over greens instead of a rice or noodle base.
+
+**Say this:**
+
+> No rice or noodle base — extra greens or vegetables instead. Tofu, mushroom, spring onions, pickled radish, and coriander. Which sauces are gluten-free? Regular soy sauce contains wheat; tamari or a checked gluten-free sauce works. No creamy or mayo-based dressings.
+
+**Protein check:** the tofu portion is the protein source — ask for a full serving. If the portion is small or tofu is not for you, pair the bowl with eggs or a pulse dish at home rather than treating the vegetables alone as the meal.
+
+**Leave out:** rice and noodle bases, regular soy sauce (wheat), sweet sauces, and creamy dressings. Pickled radish may contain a little sugar — a small garnish is a practical exception, not a serving of pickles. Tofu is a practical adaptation, not explicit Ferriss approval.
 
 </div>
 </div>

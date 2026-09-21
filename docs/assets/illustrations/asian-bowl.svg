@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="asian-bowl-title asian-bowl-desc">
+  <title id="asian-bowl-title">Tofu and mushroom Asian bowl</title>
+  <desc id="asian-bowl-desc">Original top-down illustration of a dark bowl filled with greens, tofu cubes, mushroom slices, spring onion rings, pickled radish and coriander leaves. No rice or noodles.</desc>
+  <defs>
+    <g id="asian-bowl-tofu"><rect x="-14" y="-12" width="28" height="24" rx="5" fill="#f6eee0"/><path d="M-14-7H14M-14 5H14" stroke="#dccfae" stroke-width="2"/></g>
+    <g id="asian-bowl-mushroom"><path d="M-16 2Q-14-14 0-15Q14-14 16 2Q8 7 0 7Q-8 7-16 2Z" fill="#b99470"/><path d="M-5 6Q-5 14 0 15Q5 14 5 6Z" fill="#e8dcc2"/><path d="M-11-2Q-9-9 0-10" fill="none" stroke="#d8ba90" stroke-width="2" stroke-linecap="round"/></g>
+    <g id="asian-bowl-onion"><circle r="9" fill="#e8ecdf"/><circle r="9" fill="none" stroke="#6e8a4a" stroke-width="4"/><circle r="3" fill="#a1b360"/></g>
+    <g id="asian-bowl-radish"><path d="M-13 0A13 13 0 0 1 13 0L0 0Z" fill="#f2ddd3" stroke="#d9a89a" stroke-width="2"/></g>
+    <g id="asian-bowl-coriander"><path d="M0-8Q7-6 6 0Q7 6 0 8Q-7 6-6 0Q-7-6 0-8Z" fill="#446c40"/><path d="M0 8L0 14" stroke="#446c40" stroke-width="2" stroke-linecap="round"/></g>
+  </defs>
+  <rect width="640" height="400" rx="28" fill="#f0e9db"/>
+  <path d="M0 308Q180 274 320 340T640 304V372Q640 400 612 400H28Q0 400 0 372Z" fill="#dbe2d0"/>
+  <path d="M536 0H626L598 400H508Z" fill="#fbfaf6" opacity=".5"/>
+  <ellipse cx="318" cy="216" rx="207" ry="152" fill="#244d3d" opacity=".13"/>
+  <ellipse cx="311" cy="200" rx="207" ry="152" fill="#3b3f37"/>
+  <ellipse cx="311" cy="198" rx="189" ry="134" fill="#2e332c"/>
+  <ellipse cx="311" cy="196" rx="178" ry="124" fill="#547142"/>
+  <path d="M143 196Q133 160 172 150Q186 124 224 138Q250 114 286 132Q326 116 352 142Q392 136 402 170Q440 182 430 216Q448 248 410 262Q398 296 358 288Q330 312 294 296Q256 312 230 290Q190 296 178 264Q140 254 152 222Q132 214 143 196Z" fill="#6e8a4a"/>
+  <g fill="none" stroke="#88a263" stroke-width="9" stroke-linecap="round"><path d="M180 180Q220 150 262 160M200 240Q250 268 310 254M330 168Q370 160 392 190M240 205Q290 190 340 210"/></g>
+  <g fill="none" stroke="#a1b360" stroke-width="6" stroke-linecap="round"><path d="M170 215Q210 232 245 220M300 148Q330 140 355 152M285 268Q325 278 360 262"/></g>
+  <use href="#asian-bowl-tofu" transform="translate(216 178) rotate(-12)"/>
+  <use href="#asian-bowl-tofu" transform="translate(268 150) rotate(18)"/>
+  <use href="#asian-bowl-tofu" transform="translate(330 158) rotate(-24)"/>
+  <use href="#asian-bowl-tofu" transform="translate(378 196) rotate(10)"/>
+  <use href="#asian-bowl-tofu" transform="translate(248 232) rotate(30)"/>
+  <use href="#asian-bowl-tofu" transform="translate(316 238) rotate(-8)"/>
+  <use href="#asian-bowl-tofu" transform="translate(366 258) rotate(22)"/>
+  <use href="#asian-bowl-tofu" transform="translate(196 246) rotate(-30)"/>
+  <use href="#asian-bowl-mushroom" transform="translate(280 200) rotate(15)"/>
+  <use href="#asian-bowl-mushroom" transform="translate(345 215) rotate(-20)"/>
+  <use href="#asian-bowl-mushroom" transform="translate(232 268) rotate(40)"/>
+  <use href="#asian-bowl-mushroom" transform="translate(398 236) rotate(-35)"/>
+  <use href="#asian-bowl-mushroom" transform="translate(300 282) rotate(10)"/>
+  <use href="#asian-bowl-onion" transform="translate(190 200)"/>
+  <use href="#asian-bowl-onion" transform="translate(255 195)"/>
+  <use href="#asian-bowl-onion" transform="translate(352 180)"/>
+  <use href="#asian-bowl-onion" transform="translate(288 260)"/>
+  <use href="#asian-bowl-onion" transform="translate(210 285)"/>
+  <use href="#asian-bowl-onion" transform="translate(370 285)"/>
+  <use href="#asian-bowl-radish" transform="translate(230 155) rotate(-15)"/>
+  <use href="#asian-bowl-radish" transform="translate(395 160) rotate(30)"/>
+  <use href="#asian-bowl-radish" transform="translate(180 265) rotate(160)"/>
+  <use href="#asian-bowl-radish" transform="translate(340 295) rotate(190)"/>
+  <use href="#asian-bowl-radish" transform="translate(415 255) rotate(120)"/>
+  <use href="#asian-bowl-coriander" transform="translate(250 120) rotate(-10)"/>
+  <use href="#asian-bowl-coriander" transform="translate(300 140) rotate(25)"/>
+  <use href="#asian-bowl-coriander" transform="translate(360 130) rotate(-30)"/>
+  <use href="#asian-bowl-coriander" transform="translate(265 305) rotate(15)"/>
+  <use href="#asian-bowl-coriander" transform="translate(410 210) rotate(-45)"/>
+  <use href="#asian-bowl-coriander" transform="translate(160 230) rotate(50)"/>
+  <path d="M96 60Q112 44 138 50L114 82Z" fill="#789455"/><path d="M102 60Q116 51 132 53L116 75Z" fill="#d7df9e"/>
+</svg>

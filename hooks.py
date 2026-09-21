@@ -15,7 +15,9 @@ def section(source, heading):
 
 
 def calendar_links(text):
-    return text.replace("](recipes.md", "](meals/recipes.md")
+    return text.replace("](recipes.md", "](meals/recipes.md").replace(
+        "](eating-out.md", "](meals/eating-out.md"
+    )
 
 
 def render_calendar(source):
@@ -30,11 +32,18 @@ def render_calendar(source):
         number, breakfast, lunch, dinner = row
         if breakfast == "Fixed breakfast":
             breakfast = "[Fixed breakfast](#everyday-breakfast)"
+        meal = f"{lunch} {dinner}"
         image, description = "dal-vegetables", "Illustration of dal and a vegetable side"
-        if "Egg bhurji" in dinner:
+        if "Egg bhurji" in meal:
             image, description = "egg-dosa-sides", "Illustration of egg bhurji, pulse dosas, carrot-radish salad and kimchi"
-        elif "Shakshuka" in dinner:
+        elif "Shakshuka" in meal:
             image, description = "shakshuka", "Illustration of eggs in tomato sauce"
+        elif "Zucchini" in meal:
+            image, description = "zucchini-noodles", "Illustration of zucchini noodles with peppers and lentil sauce"
+        elif "Chipotle" in meal:
+            image, description = "chipotle-bowl", "Illustration of a bean bowl with fajita vegetables and salsa"
+        elif "CAVA" in meal:
+            image, description = "cava-bowl", "Illustration of a lentil bowl with greens, cucumber and hummus"
         cards.append(
             f'<section class="meal-day" aria-labelledby="{day.lower()}" markdown>\n\n'
             f'![{description}](assets/illustrations/{image}.svg){{ width="640" height="400" loading="lazy" }}\n\n'

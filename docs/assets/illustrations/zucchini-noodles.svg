@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="zoodles-title zoodles-desc">
+  <title id="zoodles-title">Zucchini noodles with peppers and lentil sauce</title>
+  <desc id="zoodles-desc">Original top-down illustration of a cream plate of spiral zucchini noodles with red and yellow pepper strips, topped with a terracotta lentil-tomato sauce.</desc>
+  <rect width="640" height="400" rx="28" fill="#e8ecdf"/>
+  <path d="M0 302Q170 272 300 338T640 302V372Q640 400 612 400H28Q0 400 0 372Z" fill="#dbe2d0"/>
+  <path d="M514 0H604L574 400H484Z" fill="#fbfaf6" opacity=".5"/>
+  <ellipse cx="316" cy="216" rx="212" ry="156" fill="#244d3d" opacity=".13"/>
+  <ellipse cx="309" cy="200" rx="212" ry="156" fill="#fbfaf6"/>
+  <ellipse cx="309" cy="199" rx="188" ry="132" fill="#e4dcc8"/>
+  <ellipse cx="309" cy="197" rx="176" ry="122" fill="#f6eee0"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M168 200Q200 150 268 148Q340 146 396 172Q446 196 448 236Q430 286 360 300Q280 312 214 288Q160 266 158 226" stroke="#88a263" stroke-width="11"/>
+    <path d="M192 236Q210 190 268 176Q330 162 384 184Q424 202 424 240Q408 276 350 288Q288 296 236 276Q196 260 192 236" stroke="#a1b360" stroke-width="10"/>
+    <path d="M226 210Q260 184 314 186Q368 188 398 216Q412 244 388 264Q352 286 296 282Q248 276 230 250Q218 230 226 210" stroke="#6e8a4a" stroke-width="10"/>
+    <path d="M258 240Q280 212 322 212Q360 214 374 236Q372 260 340 268Q300 274 272 260Q254 250 258 240" stroke="#c3cc8b" stroke-width="9"/>
+    <path d="M176 178Q230 140 300 142M200 296Q260 316 330 308M390 290Q430 264 440 226" stroke="#a1b360" stroke-width="9"/>
+    <path d="M300 162Q350 154 398 176M244 292Q290 306 344 296" stroke="#6e8a4a" stroke-width="8"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M196 168Q240 158 282 166M330 156Q372 160 402 182M184 260Q214 284 258 292M352 296Q394 284 420 256" stroke="#b55d3e" stroke-width="7"/>
+    <path d="M238 152Q280 142 320 150M170 226Q178 252 202 272M400 200Q424 218 428 244" stroke="#dca348" stroke-width="7"/>
+    <path d="M286 300Q330 306 368 292" stroke="#b55d3e" stroke-width="7"/>
+  </g>
+  <path d="M268 190Q300 168 344 176Q384 184 392 212Q398 244 366 260Q330 276 288 266Q254 256 250 228Q248 206 268 190Z" fill="#a44e36"/>
+  <g fill="#d07850"><ellipse cx="300" cy="204" rx="10" ry="7"/><ellipse cx="340" cy="196" rx="9" ry="6"/><ellipse cx="362" cy="222" rx="10" ry="7"/><ellipse cx="318" cy="240" rx="9" ry="6"/><ellipse cx="278" cy="232" rx="8" ry="6"/></g>
+  <g fill="#eee2cd"><ellipse cx="312" cy="214" rx="4" ry="3"/><ellipse cx="348" cy="228" rx="4" ry="3"/><ellipse cx="292" cy="246" rx="4" ry="3"/></g>
+  <path d="M330 170Q340 160 352 168Q346 178 330 170M268 258Q258 268 246 262Q252 252 268 258" fill="#446c40"/>
+  <path d="M104 62Q120 46 146 52L120 86Z" fill="#789455"/><path d="M110 62Q124 53 140 55L122 79Z" fill="#d7df9e"/>
+</svg>
