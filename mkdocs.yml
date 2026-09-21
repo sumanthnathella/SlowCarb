@@ -1,0 +1,80 @@
+site_name: SlowCarb
+site_url: https://sumanthnathella.github.io/SlowCarb/
+repo_url: https://github.com/sumanthnathella/SlowCarb
+repo_name: sumanthnathella/SlowCarb
+edit_uri: edit/main/docs/
+site_description: A practical, searchable South Indian vegetarian slow-carb guide, with gluten-free and dairy-free adaptations.
+site_author: SlowCarb
+copyright: A food reference, not personalized medical advice. Check ingredients and your individual needs.
+theme:
+  name: material
+  language: en
+  font: false
+  icon:
+    logo: material/sprout-outline
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-/;,]+'
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
+nav:
+  - Start here:
+      - Your kitchen, simplified: index.md
+      - The framework: principles.md
+  - Food lookup:
+      - Indian vegetables: foods/vegetables.md
+      - Pulses & protein: foods/pulses-protein.md
+      - Grains, fats & extras: foods/staples-extras.md
+  - Meals & recipes:
+      - Keep, modify, replace: meals/dishes.md
+      - Everyday recipes: meals/recipes.md
+      - Your first week: meals/starter-week.md
+  - Grocery guide:
+      - Fresh & frozen shopping: groceries/index.md
+  - About:
+      - Evidence & sources: sources.md
+      - Edit & publish: editing.md
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
+    unrecognized_links: warn
+    anchors: warn
