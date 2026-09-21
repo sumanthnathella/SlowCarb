@@ -47,7 +47,7 @@ What to keep in sambar, kootu, usili, avial, and your usual breakfast.
 <p class="card-label">03 / Make it repeatable</p>
 
 ### A week you can actually cook
-A small set of meals, an egg-free starting plan, and a manageable shopping list.
+A [fixed avocado-and-spinach-omelette breakfast](meals/recipes.md#fixed-breakfast-avocado-and-spinach-omelette), a tofu-free starting plan, and a manageable shopping list.
 
 [Open the starter week](meals/starter-week.md)
 </div>
@@ -75,7 +75,7 @@ A substantial pulse or protein serving + familiar non-starchy vegetables + enoug
 | Suran or arvi | Starchy tubers; leave out on the six strict days | [Vegetable reference](foods/vegetables.md) |
 | Millets, ragi, jowar | Gluten-free grains still fall outside Ferriss's strict plan | [Grains and staples](foods/staples-extras.md) |
 | Avial | Adapt it: no tubers, raw banana, or regular yogurt | [Dishes](meals/dishes.md) |
-| Tofu | A useful vegetarian adaptation, not an unambiguous book endorsement | [Protein choices](foods/pulses-protein.md) |
+| Tofu | Optional if tolerated; a vegetarian adaptation, not an unambiguous book endorsement | [Protein choices](foods/pulses-protein.md) |
 | Frozen Sambhar Mix | The checked Deep ingredient list fits; add dal separately | [Grocery guide](groceries/index.md) |
 
 ## Read the labels in this guide

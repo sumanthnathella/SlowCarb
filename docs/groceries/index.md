@@ -35,8 +35,8 @@ These product names appear in Deep's manufacturer catalog. The recommendations a
 | Kantola | Spiny gourd | Fits; stir-fry |
 | Punjabi Tinda | Round/apple gourd | Fits; curry |
 | Surti Papdi; Val Papdi | Flat bean pods | Fits; vegetable curry |
-| Palak; Palak Blocks | Spinach | Fits; dal or palak tofu |
-| Methi; Methi Blocks | Fenugreek leaves | Fits; dal or tofu bhurji |
+| Palak; Palak Blocks | Spinach | Fits; dal or spinach omelette |
+| Methi; Methi Blocks | Fenugreek leaves | Fits; dal or egg bhurji |
 | Tandaljo (Thotakura) Blocks | Amaranth greens | Fits; pappu or keerai |
 | Cabbage (Chopped) | Cabbage | Fits; poriyal or grain-base replacement |
 | Carrots (Sliced) | Carrots | Fits as a vegetable side |
@@ -119,7 +119,7 @@ Pick **four to six bags**, not the entire catalog:
 5. Sambhar Mix for convenience.
 6. Green channa or tuvar lilva if you want a frozen legume option.
 
-Add your preferred dry/canned pulses and a separate protein such as tofu or optional eggs. A freezer full of vegetables alone is not a complete vegetarian meal plan.
+Add eggs or tolerated dry/canned pulses for substantial protein servings. For the [fixed breakfast](../meals/recipes.md#fixed-breakfast-avocado-and-spinach-omelette), also shop for avocado, spinach, egg whites, hemp hearts, ground flax, pine nuts, and gluten-free bagel seasoning. A freezer full of vegetables alone is not a complete vegetarian meal plan.
 
 ## Four checks before putting a bag in the cart
 

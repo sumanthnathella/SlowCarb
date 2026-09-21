@@ -65,6 +65,7 @@ class SiteTests(unittest.TestCase):
             "arvi", "seppankizhangu", "chamadumpa", "thotakura", "tandaljo",
             "suran", "millet", "pesarattu", "aviyal", "sambhar mix", "frozen",
             "guvar", "ridge gourd", "papdi lilva", "wheat flour",
+            "hemp hearts", "bagel seasoning", "spinach omelette", "shakshuka",
         ):
             with self.subTest(term=term):
                 self.assertIn(term, text)
@@ -103,6 +104,31 @@ class SiteTests(unittest.TestCase):
         ):
             with self.subTest(phrase=phrase):
                 self.assertIn(phrase, text)
+
+    def test_starter_week_has_fixed_breakfast_without_tofu_meals(self):
+        plan = (DOCS / "meals" / "starter-week.md").read_text()
+        rows = [line for line in plan.splitlines() if re.match(r"\| [1-7] \|", line)]
+        self.assertEqual(len(rows), 7)
+        for row in rows:
+            with self.subTest(row=row):
+                self.assertIn("Fixed breakfast", row.split("|")[2])
+                self.assertNotIn("tofu", row.casefold())
+        self.assertIn("8 whole eggs + 8 additional whites", plan)
+        self.assertNotIn("1.5 kg", plan)
+
+    def test_fixed_breakfast_has_portions_and_protein_caveat(self):
+        recipes = (DOCS / "meals" / "recipes.md").read_text()
+        section = recipes.split("## Fixed breakfast: avocado and spinach omelette", 1)[1].split("\n## ", 1)[0]
+        for ingredient in (
+            "½ medium avocado", "2 whole eggs + 2 additional egg whites",
+            "1 tablespoon hemp hearts", "1 teaspoon ground flaxseed",
+            "1 teaspoon pine nuts", "everything-bagel seasoning", "spinach",
+        ):
+            with self.subTest(ingredient=ingredient):
+                self.assertIn(ingredient, section)
+        self.assertIn("26–28 g", section)
+        self.assertIn("not a universal requirement", section)
+        self.assertIn("gluten", section.casefold())
 
     def test_workflow_builds_and_checks_before_deployment(self):
         workflow = (ROOT / ".github" / "workflows" / "pages.yml").read_text()

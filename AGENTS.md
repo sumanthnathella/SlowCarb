@@ -18,7 +18,8 @@ A static, searchable South Indian vegetarian slow-carb reference built with Mate
 
 ## Content conventions
 
-- Default meals are vegetarian, egg-free, and dairy-free; show eggs as optional. Check gluten ingredients and cross-contact separately from slow-carb compatibility.
+- Default meals are vegetarian including eggs, gluten-free, and dairy-free. The fixed breakfast is half an avocado with measured hemp hearts, pine nuts, ground flaxseed and bagel seasoning, plus a spinach omelette of two whole eggs and two extra whites. A third white is optional, not compulsory. Check gluten ingredients and cross-contact separately from slow-carb compatibility.
+- Keep the starter plan tofu-free and based on familiar eggs, pulses, and Indian vegetables. Retain tofu only as an optional food-reference choice if tolerated; do not replace every tofu serving with mandatory eggs or oversized pulse portions. Keep individual symptoms and private health details out of published content.
 - Distinguish author rules, our interpretations/adaptations, and independent nutrition evidence. Tofu is a practical adaptation, not explicit approval inferred from a nutrient table.
 - Do not promise rapid fat loss, recommend binge eating, prescribe supplement stacks, or imply whole fruit or grains are inherently unhealthy.
 - Use regional ingredient and package names in searchable text, with a caveat that regional names vary.

@@ -9,7 +9,7 @@ This guide translates Timothy Ferriss's *The 4-Hour Body*, especially “The Slo
 | Ferriss's rule | What it means in the book | How this guide uses it |
 | --- | --- | --- |
 | Avoid “white” carbohydrates | Excludes bread, rice including brown rice, pasta, potatoes, cereal, and other grain/starch staples | Replace the grain or tuber base with pulses and suitable vegetables. White vegetables such as cauliflower are not automatically excluded. |
-| Repeat a few meals | Combine protein, legumes, and vegetables; reduce decision-making | Rotate familiar dal, tofu or optional eggs, and vegetable dishes. Repetition is a convenience, not a nutritional requirement. |
+| Repeat a few meals | Combine protein, legumes, and vegetables; reduce decision-making | Build the routine around eggs, familiar pulses, and vegetable dishes, with a [fixed breakfast](meals/recipes.md#fixed-breakfast-avocado-and-spinach-omelette). Eggs are not required at every meal; tofu is optional if tolerated. Repetition is a convenience, not a nutritional requirement. |
 | Do not drink calories | Emphasizes water, unsweetened tea, and coffee, with exceptions elsewhere in the text | Water, tea, and coffee are simple defaults. This guide does not recommend alcohol. |
 | Avoid fruit on six days | Makes exceptions for tomato and moderate avocado | Reported as an author rule, not evidence that whole fruit prevents weight loss. Small culinary lemon/tamarind quantities here are adaptations. |
 | Take one unrestricted day | Describes a weekly high-calorie “cheat day” | Our starter week uses optional planned flexibility, not deliberate overeating. This differs from the book. |
@@ -24,7 +24,7 @@ Ferriss mentions a post-resistance-workout starch exception. It is not needed fo
 
 **Add deliberately:** enough protein. Thin sambar, rasam, chutney, and a vegetable side can look like a complete meal while supplying relatively little protein.
 
-**Adapt:** tofu as a practical protein source; rice-free pulse batters; tuber-free, yogurt-free avial; small quantities of souring ingredients. These are identified as adaptations rather than invented quotations from the book.
+**Adapt:** rice-free pulse batters; tuber-free, yogurt-free avial; small quantities of souring ingredients; tofu as an optional protein source if tolerated. These are identified as adaptations rather than invented quotations from the book.
 
 [See the dish-by-dish swaps](meals/dishes.md){ .md-button }
 
@@ -36,7 +36,7 @@ This guide uses them as a practical meal-planning check. Total needs depend on b
 
 Pulses contribute both protein and carbohydrate; this is **not a ketogenic diet**. A cooked cup of lentils has roughly 18 g protein, while tofu varies substantially by brand and firmness. Read labels and pay attention to how much actual pulse is in a prepared dish.
 
-The book allows omitting legumes from some meals if enough other food is eaten. Earlier advice that legumes are mandatory at every meal was too absolute. For an egg-free vegetarian, however, removing both grains and pulses without another substantial protein/energy source is unlikely to make a satisfying meal.
+The book allows omitting legumes from some meals if enough other food is eaten. Earlier advice that legumes are mandatory at every meal was too absolute. For a vegetarian, however, removing both grains and pulses without another substantial protein/energy source is unlikely to make a satisfying meal.
 
 ## What this guide does not claim
 
@@ -62,7 +62,7 @@ A food can be gluten-free but outside strict slow-carb: rice, millet, and many G
 
 ## Nutrition and safety
 
-Make reliable plans for calcium, vitamin B12, and overall dietary adequacy when restricting animal foods and dairy. Calcium-set tofu can help, but check its label. B12 may require fortified foods or a supplement depending on intake; don't assume a cheat day solves a deficiency.
+Make reliable plans for calcium, vitamin B12, and overall dietary adequacy when restricting animal foods and dairy. Calcium-set tofu is an optional source if tolerated; check its label. B12 may require fortified foods or a supplement depending on intake; don't assume a cheat day solves a deficiency.
 
 Do not automatically take potassium or high-dose magnesium because the book recommends them. If you have kidney disease, use glucose-lowering medicines, are pregnant, or have a history of disordered eating, discuss substantial dietary changes with your clinician or dietitian first.
 

@@ -32,12 +32,15 @@ Pulse-rich kootu, thick dal, sundal and bean curries are useful foundations. For
 
 | Choice | How to classify it here | Practical protein guide |
 | --- | --- | --- |
-| Eggs, if you eat them | Optional; egg status is unknown, and this guide does not assume vegetarian means egg-eating | Around 6–7 g per large egg; two eggs alone are usually below the author's breakfast target. |
-| Plain tofu | Practical vegetarian adaptation, not an approval inferred from a nutrient table | Often 10–20 g per 100 g firm tofu; check the brand. |
+| Eggs | Included in the starter plan's fixed breakfast; not required at every meal | Around 6–7 g per large whole egg; 2 whole eggs + 2 whites provide roughly 20 g before vegetables and toppings. |
+| Egg whites | An option for adjusting the omelette's protein without adding another whole egg | Around 3.6 g per large white; use the carton label for liquid whites. |
+| Plain tofu | Optional if tolerated, not a starter-plan default; practical vegetarian adaptation, not an approval inferred from a nutrient table | Often 10–20 g per 100 g firm tofu; check the brand. |
 | Plain tempeh | Practical adaptation; avoid barley/grain-containing versions and unsafe gluten cross-contact | Often 18–20 g per 100 g. |
 | Soy chunks / textured vegetable protein | A departure from a conservative minimally processed reading, not inherently unhealthy | Often 12–15 g per 25 g **dry**; hydrated weight is misleading. Check additives and gluten labeling. |
 | Unsweetened pea, hemp or rice protein powder | Options discussed by the book; optional convenience, not a requirement or permission for rice as a staple | Commonly 15–25 g per labeled serving; hemp products can be lower. Choose gluten-free, dairy-free products without added sugar. |
 | Lactose-free cottage cheese | Optional adaptation only; keep the default dairy-free | Often 10–13 g per 100 g. Not interchangeable with paneer; check ingredients and actual protein. |
+
+The [fixed daily breakfast](../meals/recipes.md#fixed-breakfast-avocado-and-spinach-omelette) is half an avocado topped with 1 tbsp hemp hearts, 1 tsp ground flax, 1 tsp pine nuts, and gluten-free bagel seasoning, alongside a spinach omelette with 2 whole eggs + 2 whites. Using 3 whites instead of 2 can bring the total closer to the author's roughly 30 g breakfast recommendation once the avocado, spinach, and toppings are included; it does not guarantee 30 g. Portions, egg size, and product labels change the estimate.
 
 Lactose-free dairy still contains milk proteins and is unsuitable for milk allergy. Ordinary paneer is not reliably lactose-free. Nuts, avocado and coconut can add flavor or energy but are **not dependable main protein portions**.
 
