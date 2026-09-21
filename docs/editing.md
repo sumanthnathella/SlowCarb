@@ -13,7 +13,11 @@ The guide is written in **Markdown** and built with **Material for MkDocs**. Sea
 | Millets, staples, fats, and drinks | `docs/foods/staples-extras.md` |
 | Dish substitutions | `docs/meals/dishes.md` |
 | Recipes | `docs/meals/recipes.md` |
-| First week and shopping list | `docs/meals/starter-week.md` |
+| Chipotle and CAVA orders | `docs/meals/eating-out.md`; verify current official ingredients/allergens before changing recommendations |
+| Original food illustrations | `docs/assets/illustrations/`; image selection for calendar cards is in `hooks.py` |
+| Calendar meals, fixed breakfast, and shopping list | `docs/meals/starter-week.md` — the calendar is generated from this plan |
+| Calendar introduction and layout text | `docs/calendar.md`; preserve the two template placeholders |
+| Calendar rendering | `hooks.py`; registered through MkDocs' built-in hooks |
 | Grocery brands and product checks | `docs/groceries/index.md` |
 | Evidence and references | `docs/sources.md` |
 | Navigation and site configuration | `mkdocs.yml` |

@@ -130,6 +130,74 @@ class SiteTests(unittest.TestCase):
         self.assertIn("not a universal requirement", section)
         self.assertIn("gluten", section.casefold())
 
+    def test_day_two_dinner_includes_both_vegetable_sides(self):
+        plan = (DOCS / "meals" / "starter-week.md").read_text()
+        dinner = next(line for line in plan.splitlines() if line.startswith("| 2 |")).split("|")[4]
+        for food in ("Egg bhurji", "rice-free pesarattu", "carrot–radish salad", "vegetarian, gluten-free kimchi"):
+            with self.subTest(food=food):
+                self.assertIn(food, dinner)
+        shopping = plan.split("## One-person shopping: first three days", 1)[1].split("### Breakfast-only", 1)[0]
+        for item in ("carrot", "radish", "lemon or lime", "kimchi"):
+            self.assertIn(item, shopping)
+        recipes = (DOCS / "meals" / "recipes.md").read_text()
+        self.assertIn("## Lemon-marinated carrot–radish salad and kimchi", recipes)
+        self.assertIn("not a shelf-stable pickle", recipes)
+
+    def test_calendar_is_generated_from_the_plan(self):
+        from hooks import DAYS, render_calendar
+
+        plan = (DOCS / "meals" / "starter-week.md").read_text()
+        cards = render_calendar(plan)
+        self.assertEqual(cards.count('class="meal-day"'), 7)
+        for day in DAYS:
+            self.assertIn(f"### {day}", cards)
+        self.assertIn("carrot–radish salad", cards)
+        self.assertIn("vegetarian, gluten-free kimchi", cards)
+        changed = render_calendar(plan.replace("Egg bhurji", "Changed dinner"))
+        self.assertIn("Changed dinner", changed)
+        self.assertNotIn("Egg bhurji", changed)
+        html = (SITE / "calendar" / "index.html").read_text()
+        self.assertIn("hemp hearts", html)
+        self.assertIn("2 additional egg whites", html)
+        self.assertIn("/edit/main/docs/meals/starter-week.md", html)
+        self.assertNotIn("{{ weekly_meal_calendar }}", html)
+        self.assertNotIn("{{ fixed_breakfast }}", html)
+        self.assertEqual(html.count('class="meal-day"'), 7)
+
+    def test_calendar_rejects_incomplete_schedule(self):
+        from hooks import render_calendar
+        from mkdocs.exceptions import PluginError
+
+        with self.assertRaises(PluginError):
+            render_calendar("## Seven-day menu\n\n| 1 | Breakfast | Lunch | Dinner |\n")
+
+    def test_original_illustrations_are_local_and_accessible(self):
+        import xml.etree.ElementTree as ET
+
+        for name in ("breakfast", "dal-vegetables", "egg-dosa-sides", "shakshuka", "chipotle-bowl", "cava-bowl"):
+            with self.subTest(image=name):
+                path = DOCS / "assets" / "illustrations" / f"{name}.svg"
+                root = ET.fromstring(path.read_text())
+                self.assertEqual(root.attrib["viewBox"], "0 0 640 400")
+                self.assertIsNotNone(root.find("{http://www.w3.org/2000/svg}title"))
+                self.assertIsNotNone(root.find("{http://www.w3.org/2000/svg}desc"))
+                self.assertTrue((SITE / "assets" / "illustrations" / path.name).exists())
+                for element in root.iter():
+                    self.assertNotEqual(element.tag.rsplit("}", 1)[-1], "script")
+                    for key, value in element.attrib.items():
+                        if key.rsplit("}", 1)[-1] == "href":
+                            self.assertTrue(value.startswith("#"), "Illustrations must not load external assets")
+
+    def test_restaurant_orders_explain_portions_and_cross_contact(self):
+        page = (DOCS / "meals" / "eating-out.md").read_text()
+        for phrase in ("Chipotle", "CAVA", "cross-contact", "two full servings", "18 g", "8 g", "No sofritas", "not a claim that plain falafel contains wheat"):
+            with self.subTest(phrase=phrase):
+                self.assertIn(phrase, page)
+        calendar = (SITE / "calendar" / "index.html").read_text()
+        self.assertIn("eating-out", calendar)
+        self.assertIn("illustrations/breakfast.svg", calendar)
+        self.assertIn("illustrations/egg-dosa-sides.svg", calendar)
+
     def test_workflow_builds_and_checks_before_deployment(self):
         workflow = (ROOT / ".github" / "workflows" / "pages.yml").read_text()
         self.assertIn("mkdocs build --strict", workflow)

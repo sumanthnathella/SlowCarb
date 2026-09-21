@@ -11,9 +11,14 @@ hide:
 
 <p class="intro">Keep the dal, the gourds, the poriyal, and the flavor. Build a vegetarian slow-carb routine around food you already know.</p>
 
+<figure class="hero-visual">
+<img src="assets/illustrations/breakfast.svg" alt="Illustration of a spinach omelette beside half an avocado with seeds" width="640" height="400">
+<figcaption>Your familiar breakfast, illustrated.</figcaption>
+</figure>
+
 <div class="actions" markdown>
 [Find a food](foods/vegetables.md){ .md-button .md-button--primary }
-[Start your first week](meals/starter-week.md){ .md-button }
+[Open your calendar](calendar.md){ .md-button }
 </div>
 
 <div class="tag-row">

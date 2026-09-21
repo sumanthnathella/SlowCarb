@@ -22,12 +22,16 @@ Use the [recipe portions](recipes.md) as starting points, not fixed calorie limi
 | Day | Breakfast | Lunch | Dinner |
 | --- | --- | --- | --- |
 | 1 | Fixed breakfast | Ridge gourd moong pappu + cabbage poriyal | Bean usili + cowpea curry + cauliflower |
-| 2 | Fixed breakfast | Repeat lunch | Egg bhurji + rice-free pesarattu |
-| 3 | Fixed breakfast | Repeat lunch | Repeat day 1 dinner |
+| 2 | Fixed breakfast | Ridge gourd moong pappu + cabbage poriyal | Egg bhurji + rice-free pesarattu + lemon-marinated carrot–radish salad + vegetarian, gluten-free kimchi |
+| 3 | Fixed breakfast | Ridge gourd moong pappu + cabbage poriyal | Bean usili + cowpea curry + cauliflower |
 | 4 | Fixed breakfast | Fresh pappu + cabbage; or familiar keerai kootu + a vegetable side | Fresh usili + cowpea curry + cauliflower |
-| 5 | Fixed breakfast | Repeat day 4 lunch | Shakshuka + rice-free pesarattu |
-| 6 | Fixed breakfast | Repeat day 4 lunch | Usili + modified avial; add a tolerated pulse serving if needed |
+| 5 | Fixed breakfast | Pappu + cabbage; or keerai kootu + a vegetable side | Shakshuka + rice-free pesarattu |
+| 6 | Fixed breakfast | Pappu + cabbage; or keerai kootu + a vegetable side | Usili + modified avial; add a tolerated pulse serving if needed |
 | 7 | Fixed breakfast | Earlier portions frozen promptly, or a checked restaurant meal | A usual meal or a flexible gluten-free, dairy-free choice |
+
+[View this schedule in the weekly Calendar](../calendar.md). Day 1 maps to Monday and Day 7 to Sunday; this is a reusable week without fixed dates.
+
+**Tuesday's sides:** start with a small bowl of the [lemon-marinated carrot–radish salad and a couple of tablespoons of kimchi](recipes.md#lemon-marinated-carrotradish-salad-and-kimchi). They complement the egg bhurji and pesarattu; they do not replace the protein. Keep the salad lightly salted since kimchi also contributes salt.
 
 Spiced boiled eggs are an optional lunch alternative when wanted; they are not an automatic extra on every plate. Day 7 can simply repeat a diet day. A grain-based gluten-free meal may be a flexible choice, but is not relabeled slow-carb. Resume the usual pattern without compensatory fasting or exercise.
 
@@ -43,7 +47,8 @@ This covers three fixed breakfasts, one pappu batch, one usili batch, one cowpea
 | Dry pulses | Whole mung 100 g; split yellow moong 200 g; chana dal 150 g; cowpeas 150 g, or about 2 cups drained cooked cowpeas instead |
 | Main vegetables | Ridge gourd 600 g; green beans 600 g; cabbage 600 g; cauliflower 400 g, usable weights |
 | Other vegetables | Onion 250 g; tomato 500 g; spinach about 150 g, including breakfast handfuls |
-| Pantry check | Oil, salt, cumin, mustard seeds, turmeric, ginger, curry leaves, chilli, and gluten-free spices; optional lemon |
+| Tuesday dinner sides | 1 small carrot, about 50–75 g; radish about 50 g; 1 lemon or lime; a small jar of vegetarian, gluten-free kimchi, using about 2 tablespoons for this dinner |
+| Pantry check | Oil, salt, cumin, mustard seeds, turmeric, ginger, curry leaves, chilli, and gluten-free spices |
 
 The optional third breakfast white requires **3 more whites** for these three days. The list excludes optional spiced eggs and the later-week shakshuka/avial ingredients. Buy for those when planning the second half of the week. No tofu or dairy purchase is needed.
 
@@ -57,7 +62,7 @@ If you shop for breakfasts separately: **14 whole eggs + 14 additional whites**,
 2. **Breakfast:** portion the avocado toppings and cook the spinach omelette fresh. Keep this same routine each morning.
 3. **Lunch:** cook the pappu batch and cabbage. Eat one-third of the pappu; refrigerate portions for days 2 and 3 promptly.
 4. **Dinner:** cook the cowpeas fully and finish the curry. Steam the usili mixture, cook the beans, and combine; prepare cauliflower. Refrigerate the day 3 portions and promptly freeze the spare usili portion.
-5. **For day 2 dinner:** soak mung in advance, make pesarattu and half a batch of egg bhurji. Freeze the spare pancake portion promptly.
+5. **For day 2 dinner:** soak mung in advance, make pesarattu and half a batch of egg bhurji. Add the carrot–radish salad, marinated in the fridge earlier that day or the evening before, and about 2 tablespoons of vegetarian, gluten-free kimchi. Freeze the spare pancake portion promptly.
 6. **Before day 4:** shop and cook again, or use safely frozen portions. Follow the [storage guidance](recipes.md#cooking-and-storage) rather than keeping seven days of cooked food in the refrigerator.
 
 !!! tip "Enough food without forcing pulses"

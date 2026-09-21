@@ -74,6 +74,12 @@ The [grocery guide](groceries/index.md) links individual manufacturer ingredient
 - Package formulations, labels, and availability may change.
 - Fresh or frozen food classifications in this guide are separate from clinical dietary safety.
 
+## Restaurant orders and illustrations
+
+The [Chipotle and CAVA guide](meals/eating-out.md) links the official US nutrition/allergen sources consulted and distinguishes listed nutrition from real serving sizes. Proposed orders still require current ingredient and cross-contact checks with staff; no restaurant is certified gluten-free by this guide.
+
+Food images in `assets/illustrations/` are original SVG illustrations created for this site. They are not restaurant photographs, brand endorsements, or exact depictions of serving sizes. Calendar meals and ingredient notes take precedence over the illustrative images.
+
 ## Scope and privacy
 
 This is a general vegetarian, gluten-aware, dairy-free-by-default planning reference. It does not diagnose gluten intolerance, celiac disease, lactose intolerance, allergies, or nutritional deficiencies. Seek individualized advice when medical conditions, medicines, pregnancy, or disordered eating make restrictions more complex.

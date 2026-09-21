@@ -55,9 +55,34 @@
 .card .card-label { font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; color: var(--sc-muted); }
 .plate { padding: 1.15rem 1.3rem; border-left: 4px solid var(--md-accent-fg-color); background: var(--sc-warm); border-radius: 0 .5rem .5rem 0; margin: 1.5rem 0; }
 .plate p { margin: .3rem 0; }
+.hero { position: relative; padding-right: 43%; }
+.hero-visual { position: absolute; right: 0; top: 2.5rem; width: 40%; margin: 0; }
+.hero-visual img, .breakfast-banner img { display: block; width: 100%; height: auto; border-radius: 1rem; }
+.hero-visual figcaption { margin-top: .4rem; color: var(--sc-muted); font-size: .62rem; text-align: center; }
+.breakfast-banner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); align-items: center; gap: 1.4rem; margin: 1.4rem 0; padding: 1rem; background: var(--sc-surface); border: 1px solid var(--sc-border); border-radius: .75rem; }
+.breakfast-banner p { margin: .4rem 0; }
+.restaurant-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.restaurant-card { min-width: 0; padding: 1.1rem; border: 1px solid var(--sc-border); border-radius: .7rem; background: var(--sc-surface); }
+.restaurant-card > p:first-child { margin: 0; }
+.restaurant-card img, .meal-day img { display: block; width: 100%; height: auto; aspect-ratio: 8 / 5; border-radius: .4rem; }
+.restaurant-card h2 { margin-top: .8rem; }
+.restaurant-card p, .restaurant-card blockquote { font-size: .77rem; }
+.recipe-illustration { display: block; max-width: 30rem; width: 100%; height: auto; border-radius: .6rem; margin: 1rem 0; }
+.meal-week { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; margin: 1.2rem 0 1.5rem; }
+.meal-day { min-width: 0; padding: 1rem 1.1rem; border: 1px solid var(--sc-border); border-top: 3px solid var(--md-accent-fg-color); border-radius: .55rem; background: var(--sc-surface); }
+.meal-day h3 { margin: .15rem 0 .9rem; font-family: Georgia, "Times New Roman", serif; font-size: 1.25rem; }
+.meal-day p { margin: .25rem 0 .7rem; font-size: .76rem; overflow-wrap: anywhere; }
+.meal-day p:has(> strong:only-child) { margin-bottom: .15rem; }
+.meal-day .meal-day__label { margin: 0; color: var(--sc-muted); font-size: .58rem; letter-spacing: .13em; text-transform: uppercase; }
+@media (min-width: 601px) and (max-width: 1000px) { .meal-week { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .md-typeset :focus-visible { outline: 3px solid var(--md-accent-fg-color); outline-offset: 3px; }
+@media (max-width: 760px) {
+  .hero { padding-right: 0; }
+  .hero-visual { position: static; width: 100%; max-width: 26rem; margin: 1rem 0; }
+  .restaurant-grid { grid-template-columns: 1fr; }
+}
 @media (max-width: 600px) {
-  .cards { grid-template-columns: 1fr; }
+  .cards, .meal-week, .breakfast-banner { grid-template-columns: 1fr; }
   .hero { padding-top: .7rem; }
   .md-typeset h1 { font-size: 1.9rem; }
   .hero h1 { font-size: 2.65rem; }
@@ -66,7 +91,8 @@
 @media print {
   .hero { padding: 0; }
   .hero .actions, .tag-row { display: none; }
-  .cards { display: block; }
-  .card, .plate { break-inside: avoid; }
+  .cards, .meal-week { display: block; }
+  .card, .plate, .meal-day { break-inside: avoid; }
+  .meal-day { margin-bottom: .5rem; }
   .md-typeset table:not([class]) { font-size: 10pt; }
 }

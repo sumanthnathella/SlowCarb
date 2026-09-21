@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="shakshuka-title shakshuka-desc">
+  <title id="shakshuka-title">Two-egg shakshuka in a dark skillet</title>
+  <desc id="shakshuka-desc">Original top-down illustration of a forest-green skillet filled with chunky tomato and pepper sauce, two softly set eggs with golden yellow yolks, and scattered fresh herbs.</desc>
+  <rect width="640" height="400" rx="28" fill="#f0e5d7"/>
+  <path d="M0 285L640 325V372Q640 400 612 400H28Q0 400 0 372Z" fill="#e6d8c6"/>
+  <path d="M511 0H589L553 218L477 204Z" fill="#b6c3ab"/>
+  <path d="M525 0L491 205M552 0L517 212M578 0L542 216" stroke="#edf0e3" stroke-width="2" opacity=".65"/>
+  <ellipse cx="293" cy="220" rx="196" ry="161" fill="#244d3d" opacity=".14"/>
+  <path d="M446 192L585 213Q605 216 600 237L594 254Q591 263 577 259L441 222Z" fill="#244d3d" opacity=".13"/>
+  <path d="M449 171L590 192Q608 195 604 215L600 229Q598 239 582 235L445 201Z" fill="#263f36"/>
+  <path d="M559 198L588 204Q593 205 591 211Q590 217 585 216L557 209Q551 205 559 198Z" fill="#e9dfce"/>
+  <path d="M108 158L79 151Q60 146 57 165L52 190Q49 207 66 211L96 218L99 203L76 198Q67 196 69 188L73 171Q75 164 83 166L105 172Z" fill="#263f36"/>
+  <ellipse cx="286" cy="194" rx="191" ry="158" fill="#263f36"/>
+  <ellipse cx="286" cy="193" rx="178" ry="144" fill="#3d5546"/>
+  <ellipse cx="286" cy="193" rx="168" ry="134" fill="#9d4533"/>
+  <path d="M135 143C161 92 213 69 273 72C340 66 417 101 439 157C459 211 417 268 366 296C317 325 246 321 196 291C150 270 112 202 135 143Z" fill="#c16848"/>
+  <g fill="#d38459"><path d="M153 151L173 133L195 142L189 163L166 167Z"/><path d="M230 94L253 88L267 100L255 113L232 112Z"/><path d="M323 91L348 95L354 114L331 120L316 107Z"/><path d="M389 125L409 140L407 161L386 154L380 138Z"/><path d="M410 210L433 204L432 225L419 238L401 229Z"/><path d="M351 283L372 269L386 279L371 295L353 301Z"/><path d="M202 273L222 275L231 293L212 295L194 282Z"/><path d="M147 216L163 207L178 224L166 243L152 235Z"/></g>
+  <path d="M199 134C215 114 240 120 253 136C269 139 280 156 275 174C285 190 274 209 258 214C250 235 223 241 205 226C181 229 164 211 169 191C154 174 167 153 185 151C186 143 190 138 199 134Z" fill="#f2e6c7"/>
+  <path d="M202 138C218 124 238 128 247 142C263 146 268 161 263 176C275 192 261 205 248 207C240 224 222 231 207 217C187 222 174 208 179 190C166 177 176 160 193 159C194 150 197 143 202 138Z" fill="#fbfaf0"/>
+  <ellipse cx="225" cy="174" rx="29" ry="28" fill="#dc9d31"/>
+  <ellipse cx="223" cy="171" rx="25" ry="25" fill="#ecc04c"/>
+  <path d="M209 164Q214 151 228 154" fill="none" stroke="#f5d983" stroke-width="5" stroke-linecap="round"/>
+  <path d="M330 177C350 165 375 174 379 193C399 201 402 222 390 236C392 258 372 274 350 268C332 282 310 275 303 257C280 250 277 229 288 213C287 192 307 177 322 184Z" fill="#f2e6c7"/>
+  <path d="M330 186C348 174 368 183 370 200C389 205 393 221 381 233C383 252 368 265 350 257C335 272 316 264 311 250C291 246 287 232 298 218C295 199 310 187 326 192Z" fill="#fbfaf0"/>
+  <ellipse cx="342" cy="225" rx="29" ry="28" fill="#dc9d31"/>
+  <ellipse cx="340" cy="222" rx="25" ry="25" fill="#ecc04c"/>
+  <path d="M327 216Q331 203 345 205" fill="none" stroke="#f5d983" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#426d42"><path d="M292 138Q273 118 267 132Q269 147 292 138Q310 123 300 117Q286 118 292 138M177 264Q158 253 162 243Q176 238 181 255Q185 234 197 242Q202 257 177 264M398 188Q383 172 393 165Q405 165 405 181Q416 166 424 177Q424 190 398 188M272 284Q253 270 260 261Q274 259 276 275Q286 261 293 271Q293 285 272 284"/></g>
+  <g fill="#3c573b"><ellipse cx="235" cy="209" rx="2" ry="4" transform="rotate(32 235 209)"/><ellipse cx="196" cy="174" rx="2" ry="3"/><ellipse cx="362" cy="211" rx="2" ry="3" transform="rotate(-25 362 211)"/><ellipse cx="323" cy="246" rx="2" ry="3"/><circle cx="301" cy="152" r="2"/><circle cx="253" cy="267" r="2"/></g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="lentil-bowl-title lentil-bowl-desc">
+  <title id="lentil-bowl-title">Black lentil and crisp vegetable bowl</title>
+  <desc id="lentil-bowl-desc">Original top-down illustration of a generic bowl with black lentils, romaine lettuce, sliced cucumber, red tomatoes and a small hummus dollop. No pita, rice, feta or falafel.</desc>
+  <defs>
+    <g id="lentil-bowl-lentil"><ellipse rx="6" ry="4.5" fill="#41483a"/><path d="M-3-1Q0-3 3-1" fill="none" stroke="#6f7359" stroke-width="1.5" stroke-linecap="round"/></g>
+    <g id="lentil-bowl-cucumber"><ellipse rx="29" ry="25" fill="#4e7750"/><ellipse rx="25" ry="21" fill="#b8cc96"/><ellipse rx="19" ry="16" fill="#dce4ba"/><path d="M0-11Q-6-6 0-1Q6-6 0-11M11 5Q6-1 2 3Q5 10 11 5M-11 5Q-6-1-2 3Q-5 10-11 5" fill="#a4b97d"/></g>
+  </defs>
+  <rect width="640" height="400" rx="28" fill="#eee8dc"/>
+  <path d="M0 0H149L113 400H28Q0 400 0 372Z" fill="#d4dece"/>
+  <path d="M34 0L0 377M75 0L38 400M117 0L80 400" stroke="#f7f7ed" stroke-width="2" opacity=".65"/>
+  <ellipse cx="326" cy="218" rx="219" ry="158" fill="#244d3d" opacity=".12"/>
+  <ellipse cx="319" cy="203" rx="219" ry="159" fill="#bb7c5c"/>
+  <ellipse cx="319" cy="198" rx="209" ry="151" fill="#fbfaf6"/>
+  <ellipse cx="319" cy="198" rx="187" ry="130" fill="#e2decc"/>
+  <ellipse cx="319" cy="197" rx="179" ry="123" fill="#a8b388"/>
+  <path d="M148 174L155 144L177 139L183 117L206 125L219 96L244 109L267 86L291 101L310 90L330 112L350 103L361 128L347 147L358 170L333 182L320 207L294 197L274 217L252 199L224 213L210 192L186 201L175 181Z" fill="#78965d"/>
+  <path d="M166 159L196 153L211 133L234 148L257 114M191 181L228 166L253 178L281 140L311 121M255 197L286 178L305 185L335 154M289 110L299 125" fill="none" stroke="#bacd96" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M155 216Q193 200 218 216Q250 199 278 219Q303 224 325 249L329 314Q250 337 194 290Q162 266 155 216Z" fill="#515640"/>
+  <g>
+    <use href="#lentil-bowl-lentil" x="168" y="223"/><use href="#lentil-bowl-lentil" x="184" y="218"/><use href="#lentil-bowl-lentil" x="200" y="224"/><use href="#lentil-bowl-lentil" x="218" y="223"/><use href="#lentil-bowl-lentil" x="236" y="219"/><use href="#lentil-bowl-lentil" x="254" y="220"/><use href="#lentil-bowl-lentil" x="271" y="226"/>
+    <use href="#lentil-bowl-lentil" x="172" y="235"/><use href="#lentil-bowl-lentil" x="191" y="236"/><use href="#lentil-bowl-lentil" x="209" y="237"/><use href="#lentil-bowl-lentil" x="227" y="234"/><use href="#lentil-bowl-lentil" x="245" y="234"/><use href="#lentil-bowl-lentil" x="263" y="240"/><use href="#lentil-bowl-lentil" x="281" y="238"/><use href="#lentil-bowl-lentil" x="298" y="245"/>
+    <use href="#lentil-bowl-lentil" x="180" y="248"/><use href="#lentil-bowl-lentil" x="199" y="250"/><use href="#lentil-bowl-lentil" x="217" y="247"/><use href="#lentil-bowl-lentil" x="236" y="249"/><use href="#lentil-bowl-lentil" x="255" y="254"/><use href="#lentil-bowl-lentil" x="274" y="251"/><use href="#lentil-bowl-lentil" x="289" y="259"/><use href="#lentil-bowl-lentil" x="309" y="259"/>
+    <use href="#lentil-bowl-lentil" x="190" y="261"/><use href="#lentil-bowl-lentil" x="208" y="261"/><use href="#lentil-bowl-lentil" x="226" y="262"/><use href="#lentil-bowl-lentil" x="245" y="266"/><use href="#lentil-bowl-lentil" x="265" y="269"/><use href="#lentil-bowl-lentil" x="282" y="273"/><use href="#lentil-bowl-lentil" x="301" y="273"/><use href="#lentil-bowl-lentil" x="320" y="274"/>
+    <use href="#lentil-bowl-lentil" x="204" y="276"/><use href="#lentil-bowl-lentil" x="223" y="279"/><use href="#lentil-bowl-lentil" x="242" y="280"/><use href="#lentil-bowl-lentil" x="258" y="284"/><use href="#lentil-bowl-lentil" x="278" y="287"/><use href="#lentil-bowl-lentil" x="295" y="285"/><use href="#lentil-bowl-lentil" x="314" y="287"/>
+    <use href="#lentil-bowl-lentil" x="232" y="292"/><use href="#lentil-bowl-lentil" x="249" y="295"/><use href="#lentil-bowl-lentil" x="267" y="300"/><use href="#lentil-bowl-lentil" x="287" y="302"/><use href="#lentil-bowl-lentil" x="307" y="302"/>
+  </g>
+  <path d="M357 104Q410 96 455 153L437 205L378 213L338 166Z" fill="#7e9c69"/>
+  <use href="#lentil-bowl-cucumber" transform="translate(367 123) rotate(-18)"/><use href="#lentil-bowl-cucumber" transform="translate(406 126) rotate(16)"/><use href="#lentil-bowl-cucumber" transform="translate(441 154) rotate(30)"/><use href="#lentil-bowl-cucumber" transform="translate(373 163) rotate(17)"/><use href="#lentil-bowl-cucumber" transform="translate(411 184) rotate(-18)"/>
+  <path d="M438 207Q475 187 488 219Q493 253 451 283L403 280L393 248Z" fill="#a7563e"/>
+  <path d="M416 225Q433 206 455 206L450 241Z" fill="#d17b55"/><path d="M459 209Q481 213 479 235L452 245Z" fill="#c46647"/><path d="M412 248L442 245L450 270Q426 281 409 266Z" fill="#ce7650"/><path d="M457 248L479 240Q471 262 456 272Z" fill="#dc8860"/>
+  <path d="M423 226L447 214L442 235ZM461 219L473 228L457 239ZM419 254L436 251L443 264L424 267Z" fill="#eaa382"/>
+  <g fill="#efd2a0"><ellipse cx="435" cy="223" rx="2" ry="3" transform="rotate(45 435 223)"/><ellipse cx="438" cy="231" rx="2" ry="3"/><ellipse cx="464" cy="229" rx="2" ry="3" transform="rotate(-35 464 229)"/><ellipse cx="429" cy="259" rx="2" ry="3" transform="rotate(45 429 259)"/><ellipse cx="437" cy="261" rx="2" ry="3"/></g>
+  <path d="M328 230Q344 218 362 226Q387 224 397 245Q407 263 392 280Q380 299 356 293Q332 299 316 282Q305 265 315 249Q314 237 328 230Z" fill="#cbbb8e"/>
+  <path d="M330 231Q346 223 362 231Q384 227 392 248Q401 264 386 278Q371 291 353 286Q330 291 319 274Q309 252 330 231Z" fill="#e6d6af"/>
+  <path d="M331 254Q338 236 360 243Q383 248 376 266Q369 278 350 274Q335 270 342 259Q348 251 359 257" fill="none" stroke="#c4aa76" stroke-width="5" stroke-linecap="round"/>
+  <path d="M333 251Q342 237 359 245M347 277Q367 284 382 269" fill="none" stroke="#f1e6cd" stroke-width="4" stroke-linecap="round"/>
+  <path d="M349 263Q354 259 360 263" fill="none" stroke="#ba9751" stroke-width="4" stroke-linecap="round"/>
+  <path d="M377 237Q362 226 368 219Q380 216 380 230Q388 219 394 227Q394 238 377 237" fill="#4c7446"/>
+  <path d="M529 300Q549 278 574 292Q558 315 529 300M539 300L562 292" fill="#7b9369" stroke="#59774e" stroke-width="2" stroke-linecap="round"/>
+</svg>

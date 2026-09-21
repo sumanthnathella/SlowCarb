@@ -6,6 +6,10 @@ Protein estimates are approximate, depend on ingredient size and labels, and are
 
 ## Fixed breakfast: avocado and spinach omelette
 
+![Illustration of avocado with seeds and a folded spinach omelette](../assets/illustrations/breakfast.svg){ .recipe-illustration width="640" height="400" }
+
+*Original food illustration; use the written quantities below for portions.*
+
 **Serves 1. Repeat daily if it suits your appetite and tolerance.** This is the default breakfast in the [starter week](starter-week.md), including the flexible day. No batter preparation or breakfast rotation is required.
 
 ### Your fixed plate
@@ -154,6 +158,23 @@ A cooked cup of cowpeas supplies roughly 12–14 g protein. Actual yield and ser
 3. Finish with oil and curry leaves; adjust salt. Eat the soft drumstick interior and discard its fibrous shell.
 
 No yam, taro, raw banana, potato, or yogurt. Protein is low, only a few grams per side serving; pair with a substantial pulse dish or eggs rather than counting avial as the meal's protein.
+
+## Lemon-marinated carrot–radish salad and kimchi
+
+**Serves 1 as two vegetable sides.** Scheduled with egg bhurji and rice-free pesarattu on Tuesday in the [weekly Calendar](../calendar.md). Keep the main protein; these sides are not substitutes for eggs or pulses.
+
+- 1 small carrot, about 50–75 g
+- About 50 g radish / mullangi / mooli
+- A small squeeze of lemon or lime juice, about 1–2 teaspoons to start
+- A little salt, to taste
+- About 2 tablespoons **vegetarian, gluten-free kimchi** to serve alongside
+
+1. Wash the vegetables before cutting. Slice or cut them into sticks and place in a clean, covered container.
+2. Toss with lemon or lime juice and a little salt. Do not add sugar, honey, or jaggery.
+3. Refrigerate promptly at **4°C/40°F or below**. Prepare a small batch for the next day or two; for Tuesday dinner, make it earlier that day or on Monday evening. This is **not a shelf-stable pickle**: lemon juice and a sprinkle of salt do not make it suitable for indefinite storage or room-temperature keeping.
+4. Serve the salad beside the kimchi. There is no need to drink the leftover marinade. Adjust the portions to appetite and tolerance, and go lightly on added salt because kimchi can already be salty.
+
+Ferriss explicitly lists kimchi. Choose a confirmed vegetarian and gluten-free product: traditional versions can contain fish sauce or shrimp, and some use wheat-containing ingredients. Follow the product's refrigeration and storage instructions. A little rice paste used in a kimchi recipe is not treated here as a reason to ban a small kimchi side; it is different from making rice the meal's base. Small culinary quantities of lemon/lime are a practical adaptation to the author's fruit rule.
 
 ## Cooking and storage
 

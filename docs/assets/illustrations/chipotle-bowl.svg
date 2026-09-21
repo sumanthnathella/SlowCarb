@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="bean-bowl-title bean-bowl-desc">
+  <title id="bean-bowl-title">Black bean and pinto vegetable bowl</title>
+  <desc id="bean-bowl-desc">Original top-down illustration of a generic ceramic bowl with black and pinto beans, shredded lettuce, roasted fajita peppers, chunky tomato salsa and guacamole. No rice, cheese, tortilla or meat.</desc>
+  <defs>
+    <g id="bean-bowl-black"><path d="M-12-4C-10-13 4-14 11-5C17 4 9 13 0 11C-6 10-3 5-8 5C-13 5-15 1-12-4Z" fill="#3b3f37"/><path d="M-7-6Q0-10 6-5" fill="none" stroke="#626354" stroke-width="2" stroke-linecap="round"/></g>
+    <g id="bean-bowl-pinto"><path d="M-12-4C-10-13 4-14 11-5C17 4 9 13 0 11C-6 10-3 5-8 5C-13 5-15 1-12-4Z" fill="#b99470"/><path d="M-7-6Q0-10 6-5" fill="none" stroke="#d8ba90" stroke-width="2" stroke-linecap="round"/><path d="M-6 0L-3 2M3-5L5-3M5 5L7 6" stroke="#8a6851" stroke-width="2" stroke-linecap="round"/></g>
+  </defs>
+  <rect width="640" height="400" rx="28" fill="#e8ecdf"/>
+  <path d="M0 300Q170 270 299 340T640 300V372Q640 400 612 400H28Q0 400 0 372Z" fill="#dbe2d0"/>
+  <path d="M510 0H599L569 400H480Z" fill="#fbfaf6" opacity=".5"/>
+  <ellipse cx="314" cy="217" rx="216" ry="159" fill="#244d3d" opacity=".13"/>
+  <ellipse cx="307" cy="201" rx="216" ry="159" fill="#fbfaf6"/>
+  <ellipse cx="307" cy="200" rx="190" ry="134" fill="#e1dccb"/>
+  <ellipse cx="307" cy="198" rx="183" ry="128" fill="#b4bc85"/>
+  <path d="M124 195L137 165L151 169L148 140L171 138L176 114L202 124L218 98L237 110L252 89L271 101L291 91L314 112L331 105L347 127L333 147L346 162L321 181L313 203L291 207L279 232L254 219L235 234L216 217L192 224L180 207L153 216Z" fill="#88a263"/>
+  <path d="M143 180L174 151L191 158L221 123M161 195L197 177L222 184L260 140M212 208L242 183L268 192L306 142M244 116L269 124L285 111M284 213L298 188L321 181" fill="none" stroke="#bed096" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M141 233Q151 218 175 229Q204 212 230 232Q254 227 278 254L293 298Q240 334 188 294Q151 273 141 233Z" fill="#7e6a51"/>
+  <use href="#bean-bowl-pinto" transform="translate(161 239) rotate(-15)"/><use href="#bean-bowl-pinto" transform="translate(189 235) rotate(20)"/><use href="#bean-bowl-pinto" transform="translate(218 239) rotate(-25)"/><use href="#bean-bowl-pinto" transform="translate(244 249) rotate(36)"/><use href="#bean-bowl-pinto" transform="translate(175 262) rotate(29)"/><use href="#bean-bowl-pinto" transform="translate(204 264) rotate(-20)"/><use href="#bean-bowl-pinto" transform="translate(233 276) rotate(13)"/><use href="#bean-bowl-pinto" transform="translate(260 280) rotate(-28)"/><use href="#bean-bowl-pinto" transform="translate(207 288) rotate(19)"/><use href="#bean-bowl-pinto" transform="translate(239 301) rotate(-5)"/>
+  <path d="M288 248Q331 215 373 237L404 279Q364 320 291 326L274 299Z" fill="#4a4c3b"/>
+  <use href="#bean-bowl-black" transform="translate(303 252) rotate(16)"/><use href="#bean-bowl-black" transform="translate(332 247) rotate(-26)"/><use href="#bean-bowl-black" transform="translate(361 249) rotate(38)"/><use href="#bean-bowl-black" transform="translate(285 274) rotate(-28)"/><use href="#bean-bowl-black" transform="translate(313 277) rotate(35)"/><use href="#bean-bowl-black" transform="translate(343 274) rotate(-7)"/><use href="#bean-bowl-black" transform="translate(373 275) rotate(15)"/><use href="#bean-bowl-black" transform="translate(297 300) rotate(12)"/><use href="#bean-bowl-black" transform="translate(328 302) rotate(-30)"/><use href="#bean-bowl-black" transform="translate(356 298) rotate(-11)"/>
+  <path d="M354 102Q410 102 449 147L430 198L369 214L332 172Z" fill="#936541"/>
+  <g fill="none" stroke-linecap="round"><path d="M358 111Q331 157 375 183M383 113Q358 142 389 171M409 126Q380 166 416 185" stroke="#dca348" stroke-width="14"/><path d="M399 114Q444 132 434 165M349 135Q344 177 368 193M411 152Q395 180 417 194" stroke="#b55d3e" stroke-width="13"/><path d="M369 121Q354 144 369 163M421 132Q432 148 425 162" stroke="#52764a" stroke-width="8"/><path d="M357 153L362 165M397 166L399 175M418 124L426 131" stroke="#805a3c" stroke-width="4"/></g>
+  <path d="M431 185Q465 177 480 210Q483 247 448 272L408 281L387 250L400 213Z" fill="#a44e36"/>
+  <g fill="#d07850"><path d="M420 192L440 195L443 211L426 218L414 209Z"/><path d="M449 198L465 202L472 219L452 225L443 215Z"/><path d="M404 221L424 220L433 237L417 247L399 238Z"/><path d="M443 230L463 229L459 248L440 253L433 243Z"/><path d="M419 252L436 252L438 264L419 273L405 263Z"/></g>
+  <g fill="#eee2cd"><path d="M430 206L436 201L442 208L436 213Z"/><path d="M420 240L426 236L431 243L425 248Z"/><path d="M452 252L457 256L450 262L445 257Z"/></g>
+  <path d="M268 172Q277 146 302 154Q326 139 342 160Q368 159 370 181Q393 195 377 217Q373 239 348 237Q330 254 309 240Q283 247 274 227Q251 220 260 199Q250 181 268 172Z" fill="#74934e"/>
+  <path d="M278 176Q290 158 307 168Q325 155 339 172Q357 169 358 186Q378 195 366 211Q360 227 343 223Q328 240 312 224Q291 234 283 216Q266 212 273 197Q263 184 278 176Z" fill="#a5b66f"/>
+  <path d="M289 190Q311 176 334 189M304 213Q327 200 346 208" fill="none" stroke="#c3cc8b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M283 198L291 194L295 201L287 205M342 182L350 179L353 188L345 190" fill="#b96746"/>
+  <path d="M314 169Q316 154 325 159Q332 169 314 169M337 222Q336 207 345 211Q352 222 337 222" fill="#446c40"/>
+  <path d="M102 66Q117 49 142 55L120 85Z" fill="#789455"/><path d="M107 66Q120 56 136 58L121 78Z" fill="#d7df9e"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="dosa-title dosa-desc">
+  <title id="dosa-title">Pulse crepes, egg bhurji and bright vegetable sides</title>
+  <desc id="dosa-desc">Original top-down illustration of two folded pulse crepes and golden scrambled egg bhurji on a ceramic plate, with separate small bowls of orange carrot and white radish sticks and reddish kimchi.</desc>
+  <rect width="640" height="400" rx="28" fill="#e7eadf"/>
+  <path d="M451 0H612Q640 0 640 28V372Q640 400 612 400H515Z" fill="#d5ddcc"/>
+  <ellipse cx="249" cy="210" rx="203" ry="165" fill="#244d3d" opacity=".12"/>
+  <ellipse cx="242" cy="197" rx="204" ry="166" fill="#fbfaf6"/>
+  <ellipse cx="242" cy="197" rx="179" ry="142" fill="#f0eadb" stroke="#dfd9c8" stroke-width="2"/>
+  <path d="M95 173Q146 69 267 97Q266 151 277 205Q179 229 95 173Z" fill="#c49755"/>
+  <path d="M100 168Q156 75 262 97Q254 151 270 197Q182 211 100 168Z" fill="#dbc087"/>
+  <path d="M107 166Q173 174 257 106" fill="none" stroke="#ebd8aa" stroke-width="4" stroke-linecap="round"/>
+  <path d="M89 231Q160 135 287 168Q279 225 293 287Q182 302 89 231Z" fill="#b6894c"/>
+  <path d="M91 224Q163 135 283 167Q274 224 288 279Q180 291 91 224Z" fill="#dec38b"/>
+  <path d="M100 222Q186 225 275 172" fill="none" stroke="#f0dbaa" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#b7894e" opacity=".8"><ellipse cx="160" cy="131" rx="8" ry="3" transform="rotate(-24 160 131)"/><ellipse cx="211" cy="114" rx="6" ry="3"/><ellipse cx="186" cy="185" rx="7" ry="3"/><ellipse cx="239" cy="169" rx="5" ry="3"/><ellipse cx="145" cy="209" rx="9" ry="3" transform="rotate(-22 145 209)"/><ellipse cx="198" cy="241" rx="9" ry="4"/><ellipse cx="242" cy="213" rx="6" ry="3"/><ellipse cx="255" cy="261" rx="8" ry="3"/><circle cx="165" cy="255" r="3"/><circle cx="227" cy="192" r="2"/></g>
+  <path d="M307 133Q321 115 342 124Q360 115 371 137Q395 139 391 159Q409 173 396 192Q403 216 381 223Q383 242 360 244Q345 262 324 246Q301 251 299 230Q280 218 292 198Q280 181 294 168Q287 145 307 133Z" fill="#dcaa46"/>
+  <g fill="#f1cc6d"><path d="M310 135Q326 126 333 140L325 156Q305 163 300 149Z"/><path d="M346 133Q364 126 371 145L357 158L343 150Z"/><path d="M370 164Q392 153 395 178L382 190L365 181Z"/><path d="M322 165Q343 153 351 173L341 188L321 186L306 177Z"/><path d="M305 192Q323 187 329 208L314 223L298 214Z"/><path d="M345 196Q363 184 373 204L360 218L340 213Z"/><path d="M330 225Q346 213 354 231L345 242L328 240Z"/><path d="M367 223Q379 213 384 226L373 237Z"/></g>
+  <g fill="#ba6945"><path d="M332 144L344 143L343 154L334 157Z"/><path d="M309 181L319 184L317 195L306 191Z"/><path d="M373 193L384 191L388 202L377 207Z"/><path d="M352 231L363 231L365 239L354 243Z"/></g>
+  <g fill="#537846"><path d="M351 166Q346 149 336 160Q336 172 351 166M326 216Q310 207 312 222Q319 230 326 216M370 216Q353 207 356 221Q365 227 370 216M377 150Q386 139 389 153Q385 162 377 150"/></g>
+  <ellipse cx="514" cy="115" rx="83" ry="79" fill="#244d3d" opacity=".12"/>
+  <ellipse cx="511" cy="104" rx="82" ry="77" fill="#fbfaf6"/>
+  <ellipse cx="511" cy="104" rx="69" ry="64" fill="#ddd8c6"/>
+  <ellipse cx="511" cy="104" rx="63" ry="58" fill="#e9e1c9"/>
+  <g stroke-linecap="round"><path d="M469 84L511 57M472 108L524 74M488 133L549 94M510 145L554 117M461 99L503 126" stroke="#dc8a49" stroke-width="10"/><path d="M484 62L536 107M467 124L519 93M488 151L548 113M506 62L554 92" stroke="#fbfaf6" stroke-width="10"/><path d="M484 61L536 106M467 123L519 92M488 150L548 112M506 61L554 91" stroke="#f1efdc" stroke-width="4"/></g>
+  <path d="M516 117Q507 99 498 106Q495 118 516 117" fill="#6c874b"/>
+  <ellipse cx="526" cy="291" rx="84" ry="77" fill="#244d3d" opacity=".12"/>
+  <ellipse cx="521" cy="279" rx="84" ry="77" fill="#b97053"/>
+  <ellipse cx="521" cy="278" rx="72" ry="65" fill="#f8eddd"/>
+  <ellipse cx="521" cy="278" rx="63" ry="57" fill="#9f5039"/>
+  <path d="M466 267L484 239L512 249L521 230L548 242L542 262L573 268L564 295L544 296L537 324L509 316L495 323L472 302L484 284Z" fill="#ca7350"/>
+  <path d="M478 263L493 250L515 266L501 278ZM524 247L539 251L529 279L516 271ZM543 278L561 279L550 297L531 291ZM483 287L504 293L515 311L492 305ZM514 286L526 281L539 309L526 314Z" fill="#e8a171"/>
+  <path d="M485 260L504 267M526 252L522 270M543 284L548 290M490 293L506 304M523 290L532 307" stroke="#f2c398" stroke-width="4" stroke-linecap="round"/>
+  <path d="M501 239L509 247M554 261L559 252M471 284L480 280M516 319L520 310" stroke="#627b42" stroke-width="5" stroke-linecap="round"/>
+</svg>

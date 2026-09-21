@@ -38,6 +38,8 @@ plugins:
   - search:
       lang: en
       separator: '[\s\-/;,]+'
+hooks:
+  - hooks.py
 markdown_extensions:
   - admonition
   - attr_list
@@ -57,6 +59,8 @@ nav:
   - Start here:
       - Your kitchen, simplified: index.md
       - The framework: principles.md
+  - Calendar:
+      - Weekly calendar: calendar.md
   - Food lookup:
       - Indian vegetables: foods/vegetables.md
       - Pulses & protein: foods/pulses-protein.md
@@ -64,6 +68,7 @@ nav:
   - Meals & recipes:
       - Keep, modify, replace: meals/dishes.md
       - Everyday recipes: meals/recipes.md
+      - Chipotle & CAVA: meals/eating-out.md
       - Your first week: meals/starter-week.md
   - Grocery guide:
       - Fresh & frozen shopping: groceries/index.md

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="dal-title dal-desc">
+  <title id="dal-title">Golden dal with a side of green vegetables</title>
+  <desc id="dal-desc">Original top-down illustration of thick golden lentil dal with curry leaves in a cream bowl, and a separate terracotta bowl of green beans and leafy greens.</desc>
+  <rect width="640" height="400" rx="28" fill="#f0e9db"/>
+  <path d="M0 0H151L89 400H28Q0 400 0 372Z" fill="#d4ddcb"/>
+  <path d="M24 0L0 168M66 0L5 400M108 0L47 400" fill="none" stroke="#fbfaf6" stroke-width="2" opacity=".5"/>
+  <ellipse cx="245" cy="216" rx="182" ry="153" fill="#244d3d" opacity=".12"/>
+  <ellipse cx="239" cy="199" rx="180" ry="152" fill="#fbfaf6"/>
+  <ellipse cx="239" cy="199" rx="158" ry="130" fill="#e4dcc8"/>
+  <ellipse cx="239" cy="195" rx="149" ry="122" fill="#d49b38"/>
+  <path d="M115 143C143 99 205 87 257 90C318 93 365 123 377 169C389 218 353 266 305 286C249 310 179 293 142 268C101 240 88 189 115 143Z" fill="#e5b850"/>
+  <path d="M122 185C144 133 200 123 246 139S302 161 344 143M147 257C181 278 239 286 280 270S332 234 353 231" fill="none" stroke="#edc96c" stroke-width="13" stroke-linecap="round"/>
+  <g fill="#f1d27d"><ellipse cx="160" cy="167" rx="8" ry="5"/><ellipse cx="186" cy="192" rx="7" ry="5"/><ellipse cx="139" cy="211" rx="8" ry="5"/><ellipse cx="184" cy="247" rx="8" ry="5"/><ellipse cx="223" cy="266" rx="8" ry="5"/><ellipse cx="282" cy="244" rx="8" ry="5"/><ellipse cx="326" cy="213" rx="8" ry="5"/><ellipse cx="294" cy="172" rx="7" ry="5"/><ellipse cx="261" cy="117" rx="7" ry="5"/><ellipse cx="211" cy="132" rx="8" ry="5"/><ellipse cx="345" cy="185" rx="7" ry="5"/></g>
+  <path d="M198 219Q229 180 274 159" fill="none" stroke="#3e6740" stroke-width="3" stroke-linecap="round"/>
+  <path d="M217 198Q185 193 193 172Q218 168 224 190M233 184Q216 155 235 149Q255 159 245 179M250 175Q255 143 278 146Q282 166 258 174M224 193Q251 188 255 210Q236 224 224 193M206 209Q220 204 230 223Q220 239 206 209" fill="#456d41"/>
+  <path d="M263 213Q279 192 296 195Q295 215 274 223Z" fill="#ad4d31"/>
+  <g fill="#735230"><ellipse cx="174" cy="148" rx="2" ry="4" transform="rotate(30 174 148)"/><ellipse cx="310" cy="231" rx="2" ry="4" transform="rotate(-40 310 231)"/><ellipse cx="210" cy="242" rx="2" ry="4"/><ellipse cx="282" cy="130" rx="2" ry="4"/><circle cx="161" cy="227" r="2"/><circle cx="312" cy="152" r="2"/><circle cx="289" cy="264" r="2"/></g>
+  <ellipse cx="491" cy="245" rx="113" ry="106" fill="#244d3d" opacity=".13"/>
+  <ellipse cx="486" cy="231" rx="113" ry="107" fill="#bd7656"/>
+  <ellipse cx="486" cy="230" rx="99" ry="94" fill="#f6eee0"/>
+  <ellipse cx="486" cy="228" rx="89" ry="83" fill="#547142"/>
+  <path d="M415 218Q392 189 424 174Q448 177 447 203Q458 175 481 185Q495 207 468 223Q499 212 501 238Q482 258 458 247Q460 278 432 276Q407 262 425 241Q398 239 415 218M515 180Q541 160 556 187Q559 209 539 220Q574 222 563 247Q547 263 525 250Q536 281 511 290Q483 279 495 254Q477 231 505 219Q491 196 515 180" fill="#6e8a4a"/>
+  <g fill="none" stroke-linecap="round"><path d="M425 205L462 179M443 225L493 190M422 247L475 214M457 266L503 230M491 287L536 258M508 210L543 182M519 243L558 216" stroke="#a1b360" stroke-width="11"/><path d="M425 203L462 177M444 223L493 188M423 245L475 212M458 264L503 228M492 285L536 256M509 208L543 180M520 241L558 214" stroke="#829e51" stroke-width="5"/></g>
+  <g fill="#244d3d"><circle cx="448" cy="199" r="2"/><circle cx="476" cy="244" r="2"/><circle cx="531" cy="230" r="2"/><circle cx="509" cy="270" r="2"/></g>
+  <path d="M448 79Q473 55 502 78L476 104Z" fill="#e9cf70"/><path d="M452 79Q477 62 497 79L476 98Z" fill="#f9e9a0"/>
+</svg>
