@@ -53,6 +53,8 @@ Carton egg whites can save separating eggs; use the label's equivalent quantity.
 
 Also called **green gram dosa, pachai payaru dosai, or pesara dosa** — the pulse-batter dosa in the Tuesday and Wednesday dinners. **Serves 2.** Makes about four medium pancakes, depending on thickness. This is an optional lunch/dinner accompaniment, not a required replacement for the fixed breakfast.
 
+*Video reference: [green gram dosa / pesarattu](https://youtube.com/shorts/an6KSg8MZWU) — an external recipe video, not an endorsement.*
+
 - ½ cup dry whole mung beans, approximately 100 g
 - 1 cm ginger, ½ teaspoon cumin, optional green chilli
 - Approximately ⅓–½ cup water for blending, more as needed
@@ -60,10 +62,31 @@ Also called **green gram dosa, pachai payaru dosai, or pesara dosa** — the pul
 
 1. Soak mung in plenty of water for 8–12 hours in the refrigerator; drain and rinse.
 2. Blend with ginger, cumin, chilli, salt, and enough water for a pourable but not watery batter. No rice or rice flour is needed.
-3. Lightly oil a medium-hot skillet. Spread a quarter of the batter thinly. Cook until the top loses its wet sheen and the underside browns; flip and cook through. Repeat, adjusting heat so the center cooks before the outside burns. Resist adding rice flour for extra crispness — that makes it a grain-based dosa.
+3. Lightly oil a medium-hot skillet. Spread a quarter of the batter thinly. Cook until the top loses its wet sheen and the underside browns; flip and cook through. Repeat, adjusting heat so the center cooks before the outside burns. Resist adding rice flour for extra crispness — that makes it a grain-based dosa. For crisper edges, substitute a spoonful of plain besan or extra ground chana dal instead.
 4. Divide between two plates. Serve with egg bhurji, a substantial dal dish, or vegetables as part of a fuller meal.
 
 **Approximate protein:** roughly 10–15 g per serving of pancakes. Chutney alone does not make this a high-protein complete meal.
+
+## Mixed-dal protein dosa (rice-free adai)
+
+**Serves 3–4.** The viral “protein dosa” made strict-day-friendly: most popular versions soak the dals **with rice**, which keeps them off the six strict days. This version drops the grain entirely — an all-pulse adai. The original rice version remains a flexible-day option.
+
+- ¼ cup toor dal, about 50 g
+- ¼ cup chana dal, about 50 g
+- ¼ cup whole mung / pachai payaru, about 50 g
+- ¼ cup urad dal, about 50 g
+- 2–3 dried red chillies, 1 teaspoon cumin, ½ inch ginger
+- Curry leaves, salt, and optional gluten-free hing
+- Water for soaking and grinding; oil for the pan
+
+1. Soak the dals together for 4–6 hours, refrigerated; drain and rinse.
+2. Grind with the chillies, cumin, ginger, and salt plus enough water for a thick, spreadable, slightly coarse adai-style batter. No rice, no fermentation needed.
+3. Spread on a medium-hot tawa a little thicker than a dosa; cook both sides with a little oil until the edges crisp.
+4. Serve with sambar or a sugar-free chutney. Add eggs or a pulse side if you want a larger protein serving.
+
+**Approximate protein:** roughly 12–15 g per serving of two medium adais, before accompaniments. “Protein dosa” oversells the pancakes alone — the dal content is real but modest per serving.
+
+*Video reference: [Kani akka protein dosa](https://youtube.com/shorts/13WO2-uSAZA) — the televised version includes rice; the recipe above substitutes an equal volume of dal. See [if a recipe calls for rice](dishes.md#if-a-recipe-calls-for-rice-substitute-or-skip).*
 
 ## Egg bhurji
 
@@ -229,6 +252,8 @@ Ferriss explicitly lists kimchi. Choose a confirmed vegetarian and gluten-free p
 4. Cook on a medium-hot tawa like an ordinary dosa, spreading thin. Use a little oil for crispness.
 
 **Flexible-day role:** serve with a sambar that carries a substantial dal portion, and chutney without added sugar. A couple of dosas is a meal portion, not an all-day snack. On strict days, the [mung-only pesarattu](#mung-only-pesarattu) is the grain-free option.
+
+*Video reference: [no-rice crispy kambu dosa](https://youtube.com/shorts/wqZultrzxDo) — an external recipe video, not an endorsement. For strict days, substitute the millet batter with the [all-pulse pesarattu or adai batter](#mung-only-pesarattu) — same soak-grind-cook method, no grain.*
 
 ## Cooking and storage
 

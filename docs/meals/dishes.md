@@ -24,12 +24,22 @@ See [principles](../principles.md), [vegetables](../foods/vegetables.md), and [s
 | Sundal | Keep | Well-cooked chickpeas, mung, or black-eyed peas. Modest coconut, no added sugar. A small snack cup is not a complete meal. |
 | Avial / aviyal | Adapt; side | Ash gourd, drumstick, long beans, snake gourd, modest carrot and coconut, little tamarind. No yam, taro, raw banana, potato, or yogurt. Add separate protein. |
 | Pesarattu / mixed-dal dosa | Rice-free adaptation | Use pulse-only batter: some recipes add rice or an upma filling. Pair with egg bhurji or a substantial dal-based side. |
-| Adai / chilla | All-pulse adaptation | Rice-free all-pulse adai or besan chilla. Check mixes for rice, wheat, or semolina; cook thoroughly. |
+| Adai / chilla / protein dosa | All-pulse adaptation | [Rice-free all-pulse adai](recipes.md#mixed-dal-protein-dosa-rice-free-adai) or besan chilla. Check mixes for rice, wheat, or semolina; cook thoroughly. |
 | Idli / dosa / uttapam | Replace grain-based versions on diet days | Standard batters contain rice. Millet versions — ragi, kambu/bajra, thinai — remain grain-based even when labeled “no rice”. Pulse-only dal idli can be an adaptation; fermentation does not remove grain from ordinary batter. |
 | Pongal / upma / poha / mixed rice | Replace on diet days | Rice, semolina, flattened rice, millet, and ragi are not pulses. Try dal over cabbage or cauliflower. |
 | Mor kuzhambu | Skip yogurt version | Lactose-free yogurt is still dairy. Choose a separate dairy-free curry. |
 | Vegetable korma / kurma | Adapt | Non-starchy vegetables, moderate coconut; no potato, milk, cream, or yogurt. Check restaurant ingredients and add a separate protein serving if needed. |
 | Vada / bajji / pakora / breaded cutlets | Not regular meal anchors | Avoid routine deep-fried meals. Breading may contain wheat; fryers may be shared. Choose steamed usili or pan-cooked pulse pancakes. |
+
+## If a recipe calls for rice: substitute or skip
+
+Recipe videos often add rice where it is not needed. Use these swaps on strict days rather than abandoning the dish:
+
+- **Rice in a dosa/adai batter →** swap it for the same volume of dal, or simply skip it for a thinner, pesarattu-style batter. Soaking and grinding work the same without it.
+- **Rice flour for crispness →** a spoonful of plain besan (chickpea flour — gluten-free) or extra ground chana dal gives crisp edges without grain.
+- **Rava/sooji, semolina, or poha in the mix →** skip them; they are grain fillers, not structure. An all-pulse batter holds together on its own.
+- **Rice or an upma filling on the side →** cabbage poriyal, cauliflower, or a bigger pulse portion — not a smaller meal.
+- **Wheat flour, bread crumbs, or maida coatings →** skip the coating entirely, or use besan. These also carry gluten.
 
 ## Familiar meals, rebuilt
 
