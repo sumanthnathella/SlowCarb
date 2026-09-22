@@ -71,6 +71,20 @@ Choose **plain raw or dry-roasted** nuts, unsalted or lightly salted. Flavored a
 
 **Chia seeds and flaxseed follow the same measured-extra rule:** about **1–2 tablespoons a day**, not unlimited. Chia gives roughly 2 g protein and 4 g fiber per tablespoon with plenty of omega-3, but it is calorie-dense and no protein anchor — think of it like the flaxseed already in the fixed breakfast. Soak it or use it ground in porridge-style bowls made without dairy; a large bowl of chia pudding is still an extra, not a meal's protein.
 
+### What the book suggests about supplements
+
+Ferriss is more aggressive on supplements than this guide is. For completeness, here is what the book recommends — and how to treat each suggestion:
+
+| The book's suggestion | Practical take here |
+| --- | --- |
+| **Beano / alpha-galactosidase** for bean gas | Reasonable and low-risk on a legume-heavy diet. Soaking beans, rinsing canned beans, and building up portions gradually help as well; an enzyme tablet is optional support, not a requirement. |
+| Electrolytes — potassium, magnesium | Sensible to be aware of on lower-carb eating; prefer food first — avocado, greens, pulses — before products. |
+| **PAGG stack** — policosanol, alpha-lipoic acid, green-tea EGCG, garlic extract, several times daily | **Not recommended here.** Thin evidence for added fat loss, unregulated products, and real interaction risks with blood thinners, diabetes medication, and blood pressure drugs. Discuss with a clinician rather than self-prescribing. |
+| Creatine | From the book's muscle-gain protocol, not the fat-loss section — a separate goal, not a diet requirement. |
+| Fermented foods | Kimchi and sauerkraut appear in the book's gut-health suggestions; a small serving of confirmed vegetarian, gluten-free kimchi is already in the Tuesday dinner. |
+
+Supplements are not regulated or tested like medicines. Anything beyond Beano-level digestive support — especially the PAGG stack, fat-burners, or hormone-adjacent products — deserves a conversation with your clinician, particularly alongside any medication.
+
 ## Flexibility without a binge
 
 Ferriss describes six strict days and a weekly off-plan day. This site does **not** recommend deliberate bingeing. Planned flexibility or a less restrictive long-term pattern is an adaptation, not a failure. Gluten and lactose tolerance still matter on flexible days: an off-plan meal is not permission to ignore a medical restriction.
