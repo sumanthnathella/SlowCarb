@@ -52,6 +52,21 @@ Default to dairy-free cooking rather than butter, ghee, cream, curd or paneer. L
 - Prefer water, plain sparkling water, unsweetened tea or black coffee without calorie-containing additions. Avoid sweetened drinks, jaggery, honey and sugary coffee mixes. Alcohol is not recommended here.
 - No supplements are automatically required. A dairy-free vegetarian diet warrants attention to B12, calcium, iron, iodine and vitamin D, using suitable foods and individualized professional advice when needed—not an automatic supplement stack.
 
+### Nuts and seeds: measured extras
+
+Ferriss calls nuts a “domino food” — easy to keep eating once started. The practical rule here is **one measured serving of about 28–30 g per day at most**, portioned into a bowl rather than eaten from the bag. Counts below are approximate and vary with size and brand; the weight is the real guide.
+
+| Nut or seed | About one measured serving | Approx. protein | Honest note |
+| --- | --- | --- | --- |
+| Almonds / badam | ~23 nuts (28 g) | ~6 g | Solid default; good fiber and vitamin E. |
+| Pistachios / pista | ~49 kernels (28 g) | ~6 g | Shelling them slows eating — a built-in portion brake. |
+| Pumpkin seeds / pepitas | ~¼ cup (28–30 g) | ~7 g | Seeds, not nuts; same portion rule, decent protein. |
+| Baru nuts | ~15–20 nuts (28–30 g) | ~7 g | Botanically a legume, not a tree nut; among the better protein-and-fiber picks. Published values vary by source. |
+| Cashews / kaju / munthiri | ~16–18 nuts (28 g) | ~5 g | More carbohydrate and less fiber than most nuts — the easiest to overeat. |
+| Pecans | ~19 halves (28 g) | ~2.6 g | The most fat-dense and least protein-rich here; the smallest nutritional payoff per serving. |
+
+Choose **plain raw or dry-roasted** nuts, unsalted or lightly salted. Flavored and coated versions — honey roasted, chocolate, yogurt-coated, masala mixes — can add sugar, dairy, or wheat starch, so check labels. If you are highly gluten-sensitive, check for shared-facility warnings too. Nuts supplement a meal; they do not replace the pulse or egg serving.
+
 ## Flexibility without a binge
 
 Ferriss describes six strict days and a weekly off-plan day. This site does **not** recommend deliberate bingeing. Planned flexibility or a less restrictive long-term pattern is an adaptation, not a failure. Gluten and lactose tolerance still matter on flexible days: an off-plan meal is not permission to ignore a medical restriction.
