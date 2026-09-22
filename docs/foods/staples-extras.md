@@ -69,6 +69,8 @@ Choose **plain raw or dry-roasted** nuts, unsalted or lightly salted. Flavored a
 
 **A suggested daily mix, about 28–30 g total (~6–7 g protein):** 8 almonds + 12 pistachios + 1 tablespoon pumpkin seeds + 2–3 baru nuts. Prefer cashews or pecans on a given day? **Swap, don't add** — 3 cashews or 3–4 pecan halves replaces about 5 almonds in that mix.
 
+**Chia seeds and flaxseed follow the same measured-extra rule:** about **1–2 tablespoons a day**, not unlimited. Chia gives roughly 2 g protein and 4 g fiber per tablespoon with plenty of omega-3, but it is calorie-dense and no protein anchor — think of it like the flaxseed already in the fixed breakfast. Soak it or use it ground in porridge-style bowls made without dairy; a large bowl of chia pudding is still an extra, not a meal's protein.
+
 ## Flexibility without a binge
 
 Ferriss describes six strict days and a weekly off-plan day. This site does **not** recommend deliberate bingeing. Planned flexibility or a less restrictive long-term pattern is an adaptation, not a failure. Gluten and lactose tolerance still matter on flexible days: an off-plan meal is not permission to ignore a medical restriction.
