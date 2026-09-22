@@ -53,7 +53,7 @@ Carton egg whites can save separating eggs; use the label's equivalent quantity.
 
 Also called **green gram dosa, pachai payaru dosai, or pesara dosa** — the pulse-batter dosa in the Tuesday and Wednesday dinners. **Serves 2.** Makes about four medium pancakes, depending on thickness. This is an optional lunch/dinner accompaniment, not a required replacement for the fixed breakfast.
 
-*Video reference: [green gram dosa / pesarattu](https://youtube.com/shorts/an6KSg8MZWU) — an external recipe video, not an endorsement.*
+*Video references: [green gram dosa / pesarattu](https://youtube.com/shorts/an6KSg8MZWU) and [healthy moong dal dosa](https://youtube.com/shorts/JDbGn1_yozg) — external recipe videos, not endorsements.*
 
 - ½ cup dry whole mung beans, approximately 100 g
 - 1 cm ginger, ½ teaspoon cumin, optional green chilli
@@ -254,6 +254,110 @@ Ferriss explicitly lists kimchi. Choose a confirmed vegetarian and gluten-free p
 **Flexible-day role:** serve with a sambar that carries a substantial dal portion, and chutney without added sugar. A couple of dosas is a meal portion, not an all-day snack. On strict days, the [mung-only pesarattu](#mung-only-pesarattu) is the grain-free option.
 
 *Video reference: [no-rice crispy kambu dosa](https://youtube.com/shorts/wqZultrzxDo) — an external recipe video, not an endorsement. For strict days, substitute the millet batter with the [all-pulse pesarattu or adai batter](#mung-only-pesarattu) — same soak-grind-cook method, no grain.*
+
+## Karuppu ulunthu: black urad dosa
+
+**Serves 2.** Another “no rice, no ferment” pulse dosa — this time built on whole black urad (karuppu ulunthu / minapappu). It follows the same method as the [mung-only pesarattu](#mung-only-pesarattu); whole urad takes a little longer to soak and grinds fluffier.
+
+- ½ cup whole black urad, about 100 g
+- 1 cm ginger, ½ teaspoon cumin, optional green chilli
+- Salt; water for blending; 2 teaspoons oil for the pan
+
+1. Soak the urad for 6–8 hours, refrigerated; drain and rinse.
+2. Grind with ginger, cumin, chilli, salt, and water into a smooth, pourable batter. No fermentation needed for the instant version — or rest it a few hours for a softer result.
+3. Cook on a medium-hot tawa like a dosa, spreading thin; oil the edges lightly and cook both sides.
+
+**Approximate protein:** roughly 12–15 g per serving of pancakes, before accompaniments. Pair with sambar or a vegetable side.
+
+*Video reference: [black urad dal dosa / karuppu ulunthu dosa](https://youtube.com/shorts/5-Z4-KTvMS4) — an external recipe video, not an endorsement.*
+
+## Dal idli without rice
+
+**Makes about 12 idlis.** “No-rice idli” videos come in two kinds: all-dal batters that fit strict days, and millet, poha, or suji batters that are still grain. This is the all-dal version — steamed pulse cakes with no rice and no rava.
+
+- ½ cup urad dal, about 100 g
+- ¼ cup yellow moong dal, about 50 g
+- ¼ cup chana dal, about 50 g
+- ½ teaspoon fenugreek/methi seeds
+- Salt; a little oil for the moulds
+
+1. Soak the dals with the fenugreek for 5–6 hours, refrigerated; drain and rinse.
+2. Grind the urad and moong smooth; grind the chana dal slightly coarse. Mix with salt and ferment 8–12 hours like idli batter.
+3. Pour into greased idli moulds and steam 10–12 minutes until a skewer comes out clean. Rest a few minutes before unmoulding.
+4. Instant version: skip fermentation and fold in about 1 teaspoon of plain Eno/fruit salt just before steaming — check the label for added ingredients.
+
+**Approximate protein:** roughly 4 g per idli; a serving of 3–4 idlis supplies about 12–16 g before sambar or chutney. Steamed, not fried — and no grain in the batter. Serve with a substantial sambar.
+
+*Video reference: [no-rice idli](https://youtube.com/shorts/AfMnTIgBuEQ) — check that the version you follow uses dal only, not millet, poha, or suji.*
+
+## Sattu chilla: a no-knead pulse “roti”
+
+**Serves 2.** Sattu is roasted Bengal gram flour — a pulse flour like besan, not a grain — so this instant flatbread fits strict days. Choose a plain sattu and check gluten labeling, as with any flour.
+
+- ½ cup sattu, about 60 g
+- About ½ cup water, added gradually for a thick batter
+- ¼ cup finely chopped onion, ¼ cup grated cucumber or chopped moringa leaves
+- Green chilli, grated ginger, ¼ teaspoon ajwain/carom, ¼ teaspoon cumin, turmeric, salt
+- Optional gluten-free hing; a little oil for the pan
+
+1. Mix everything into a thick, spreadable batter; rest 5–10 minutes so the sattu hydrates.
+2. Cook on a medium-hot pan like a thick chilla or roti, a few minutes per side with a little oil.
+
+**Approximate protein:** roughly 8–10 g per serving from the sattu alone — pair with dal, eggs, or a vegetable-pulse side for a full meal.
+
+*Video reference: [no-knead high-protein sattu roti](https://youtu.be/SME8yQGQyhY) — an external recipe video, not an endorsement.*
+
+## Cabbage rolls with spiced dal filling
+
+**Serves 2–3.** The cabbage-leaf wrap is the clever part of the paneer momo videos — a grain-free “skin”. Paneer is dairy, so this version fills them with a spiced dal mixture instead. A steamed, not fried, snack or light meal alongside dal.
+
+- 8–10 large cabbage leaves
+- 1 cup cooked chana or whole mung, mashed coarsely
+- 1 small grated carrot, chopped spring onion or onion, ginger, green chilli
+- ½ teaspoon cumin, garam masala or sambar powder, salt; a teaspoon of oil
+
+1. Blanch cabbage leaves 1–2 minutes until pliable; trim thick ribs. Drain well.
+2. Mix the mashed pulses with vegetables and spices. Place a spoonful on each leaf and roll, tucking the sides.
+3. Steam 8–10 minutes, or pan-cook seam-side down with a lid and a splash of water. Serve with a sugar-free chutney.
+
+**Approximate protein:** roughly 10–12 g per serving from the dal filling. Egg bhurji also works as a filling if you prefer it to the dal mixture.
+
+*Video reference: [spicy cabbage rolls](https://youtube.com/shorts/YvDCjdyr7fM) — the original uses paneer; this version swaps in dal for a dairy-free filling.*
+
+## Cauliflower and chickpea bowl
+
+**Serves 2.** A pulse-and-vegetable bowl that fits as written once the “creamy” part is dairy-free: use coconut milk or blended cauliflower for body instead of cream or yogurt.
+
+- 400 g cauliflower florets
+- 1½ cups cooked chickpeas (or 1 can, drained and rinsed)
+- 1 onion and 2 tomatoes, chopped
+- 2 teaspoons oil, ½ teaspoon cumin, turmeric, chilli, curry leaves, salt
+- About ½ cup light coconut milk, or blend a ladle of the cooked cauliflower with water
+
+1. Roast or sauté the cauliflower until browned at the edges; set aside.
+2. Soften onion with cumin and curry leaves, add tomato and spices, and cook down.
+3. Add chickpeas and the coconut milk or blended-cauliflower base; simmer a few minutes. Fold in the cauliflower and season.
+
+**Approximate protein:** roughly 12–14 g per serving from the chickpeas. Serve over cabbage or on its own — no rice needed.
+
+*Video reference: [cauliflower and chickpea bowl](https://youtube.com/shorts/b_ZqgXZG1eM) — use coconut milk or blended cauliflower wherever the video uses cream or yogurt.*
+
+## Besan chilla sandwich
+
+**Serves 2.** The “no bread sandwich” videos cook a besan batter in a sandwich maker — the base already fits. The usual paneer-and-curd filling is dairy, so this version keeps the vegetables and swaps in a spiced chana or egg filling.
+
+- ½ cup besan/chickpea flour (plain, gluten-free)
+- About ⅓ cup water for a thick batter
+- Chopped onion, capsicum, tomato, green chilli, coriander; cumin, chilli, salt
+- Filling: spiced mashed chana, scrambled egg, or leftover usili
+- Oil for the plates or pan
+
+1. Whisk the batter with the chopped vegetables and spices; rest 5 minutes.
+2. Spoon onto a greased sandwich maker or pan, add the filling, cover with a little more batter, and cook until golden on both sides. On a tawa, make two small chillas and sandwich the filling between them.
+
+**Approximate protein:** roughly 10–14 g per serving depending on the filling. Paneer is dairy — the mashed-chana or egg filling keeps it dairy-free.
+
+*Video reference: [no-bread sandwich](https://youtube.com/shorts/GZZUo8Ar7Z0) — the original uses paneer and curd; this version is the dairy-free adaptation.*
 
 ## Cooking and storage
 
