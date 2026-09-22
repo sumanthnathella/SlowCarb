@@ -51,7 +51,7 @@ Carton egg whites can save separating eggs; use the label's equivalent quantity.
 
 ## Mung-only pesarattu
 
-**Serves 2.** Makes about four medium pancakes, depending on thickness. This is an optional lunch/dinner accompaniment, not a required replacement for the fixed breakfast.
+Also called **green gram dosa, pachai payaru dosai, or pesara dosa** — the pulse-batter dosa in the Tuesday and Wednesday dinners. **Serves 2.** Makes about four medium pancakes, depending on thickness. This is an optional lunch/dinner accompaniment, not a required replacement for the fixed breakfast.
 
 - ½ cup dry whole mung beans, approximately 100 g
 - 1 cm ginger, ½ teaspoon cumin, optional green chilli
@@ -60,7 +60,7 @@ Carton egg whites can save separating eggs; use the label's equivalent quantity.
 
 1. Soak mung in plenty of water for 8–12 hours in the refrigerator; drain and rinse.
 2. Blend with ginger, cumin, chilli, salt, and enough water for a pourable but not watery batter. No rice or rice flour is needed.
-3. Lightly oil a medium-hot skillet. Spread a quarter of the batter thinly. Cook until the top loses its wet sheen and the underside browns; flip and cook through. Repeat, adjusting heat so the center cooks before the outside burns.
+3. Lightly oil a medium-hot skillet. Spread a quarter of the batter thinly. Cook until the top loses its wet sheen and the underside browns; flip and cook through. Repeat, adjusting heat so the center cooks before the outside burns. Resist adding rice flour for extra crispness — that makes it a grain-based dosa.
 4. Divide between two plates. Serve with egg bhurji, a substantial dal dish, or vegetables as part of a fuller meal.
 
 **Approximate protein:** roughly 10–15 g per serving of pancakes. Chutney alone does not make this a high-protein complete meal.

@@ -68,7 +68,7 @@ class SiteTests(unittest.TestCase):
             "hemp hearts", "bagel seasoning", "spinach omelette", "shakshuka",
             "zucchini", "peanut sundal", "skhug", "harissa", "edamame",
             "kambu", "anjeer", "tuvar lilva", "surti papdi", "valor",
-            "mochai", "avarekai",
+            "mochai", "avarekai", "green gram dosa", "pachai payaru",
         ):
             with self.subTest(term=term):
                 self.assertIn(term, text)
