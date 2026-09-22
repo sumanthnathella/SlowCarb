@@ -39,8 +39,9 @@ These fit the non-starchy vegetable side of the plate when cooked without flour 
 | Yardlong / long beans | Karamani pods, alasandala pods; chauri, chawli, lobia pods | Fits as a vegetable; mature cowpeas are pulses. |
 | Green / French beans | Beans; fansi, farasbi | Fits as a vegetable, not a protein anchor. |
 | Cluster beans | Kothavarangai; goruchikkudu; guvar, guar, gawar | Fits; cook until tender. |
-| Flat beans | Avarakkai; chikkudukaya; surti papdi, val papdi | Tender edible pods fit as vegetables. Remove strings and cook thoroughly. |
-| Shelled papdi / field beans | Papdi lilva, val, avarai beans | Count the shelled seeds as legumes, not “free vegetables”; see [protein guide](pulses-protein.md). |
+| Flat beans | Avarakkai; chikkudukaya; surti papdi, val papdi, valor/valor papdi, surti beans | Tender edible pods fit as vegetables — the surti papdi used in shaak and undhiyu is this pod. Remove strings and cook thoroughly. |
+| Shelled papdi / field beans | Papdi lilva, surti papdi lilva, val, avarai beans, avarekai, mochai/mochakottai | Count the shelled seeds as legumes, not “free vegetables”; see [protein guide](pulses-protein.md). Cook hyacinth beans thoroughly. |
+| Fresh pigeon peas | Tuvar lilva, tuver na lilva; fresh green toor | Shelled fresh legume, not a pod vegetable: count it as part of the pulse serving rather than a free vegetable side; cook fully. |
 
 ## Greens, stems and brassicas
 

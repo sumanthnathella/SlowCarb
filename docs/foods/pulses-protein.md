@@ -11,7 +11,7 @@ Amounts are approximate grams of protein per **one cooked cup of drained beans o
 
 | Pulse | Searchable names | Approximate protein |
 | --- | --- | --- |
-| Pigeon peas | Toor, tur, arhar dal; thuvaram paruppu, kandi pappu | 11–15 g |
+| Pigeon peas | Toor, tur, arhar dal; thuvaram paruppu, kandi pappu; tuvar lilva (fresh seeds) | 11–15 g |
 | Mung beans, whole or split | Moong; pachai payaru, pasi paruppu; pesalu, pesara pappu | 14–16 g |
 | Red/brown lentils | Masoor, masoor dal | 16–18 g |
 | Black gram | Urad; ulundhu; minumulu, minapa pappu | 12–16 g |
@@ -21,7 +21,7 @@ Amounts are approximate grams of protein per **one cooked cup of drained beans o
 | Kidney beans | Rajma | 13–15 g |
 | Horse gram | Kollu; ulavalu; kulthi | About 12–16 g |
 | Moth beans | Matki, moth | About 13–15 g |
-| Mature field / hyacinth beans | Val, avarai beans, anapa ginjalu; shelled papdi lilva | About 10–14 g; fresh seeds vary |
+| Mature field / hyacinth beans | Val, avarai beans, anapa ginjalu; shelled papdi lilva, surti papdi lilva, mochai, avarekai | About 10–14 g; fresh seeds vary |
 | Black, pinto and navy beans | Black beans are not urad; pinto beans; navy/haricot beans | 14–16 g |
 | Mature soybeans | Soyabean; not the same portion value as green edamame | About 28–31 g |
 | Mature dried peas | Dried green/yellow peas, split peas, vatana, pattani | 15–17 g |
