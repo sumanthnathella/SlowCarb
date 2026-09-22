@@ -48,7 +48,7 @@ Default to dairy-free cooking rather than butter, ghee, cream, curd or paneer. L
 ## Fats, fruit and drinks
 
 - Measure cooking oils, including coconut oil. Coconut flesh, coconut milk, nuts, nut butters, seeds and avocado are extras, **not unlimited foods or protein anchors**. Unsweetened coconut products are practical adaptations; portion sizes matter.
-- The author's strict days exclude sweet fruit, dried fruit and juice. This is a framework choice, not evidence that fruit prevents weight loss. Botanical fruits used as vegetables are handled in the [vegetable list](vegetables.md).
+- The author's strict days exclude sweet fruit, dried fruit — including dried figs/anjeer, raisins/kismis and dried mango — and juice. This is a framework choice, not evidence that fruit prevents weight loss. Botanical fruits used as vegetables are handled in the [vegetable list](vegetables.md). Naturally gluten-free and dairy-free dried fruit remains a flexible-day option in small amounts, not a strict-day snack.
 - Prefer water, plain sparkling water, unsweetened tea or black coffee without calorie-containing additions. Avoid sweetened drinks, jaggery, honey and sugary coffee mixes. Alcohol is not recommended here.
 - No supplements are automatically required. A dairy-free vegetarian diet warrants attention to B12, calcium, iron, iodine and vitamin D, using suitable foods and individualized professional advice when needed—not an automatic supplement stack.
 
@@ -66,6 +66,8 @@ Ferriss calls nuts a “domino food” — easy to keep eating once started. The
 | Pecans | ~19 halves (28 g) | ~2.6 g | The most fat-dense and least protein-rich here; the smallest nutritional payoff per serving. |
 
 Choose **plain raw or dry-roasted** nuts, unsalted or lightly salted. Flavored and coated versions — honey roasted, chocolate, yogurt-coated, masala mixes — can add sugar, dairy, or wheat starch, so check labels. If you are highly gluten-sensitive, check for shared-facility warnings too. Nuts supplement a meal; they do not replace the pulse or egg serving.
+
+**A suggested daily mix, about 28–30 g total (~6–7 g protein):** 8 almonds + 12 pistachios + 1 tablespoon pumpkin seeds + 2–3 baru nuts. Prefer cashews or pecans on a given day? **Swap, don't add** — 3 cashews or 3–4 pecan halves replaces about 5 almonds in that mix.
 
 ## Flexibility without a binge
 
