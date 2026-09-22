@@ -17,6 +17,25 @@
 
 See the [vegetable guide](vegetables.md) for tubers, raw banana and other starches, and [pulses & protein](pulses-protein.md) for meal foundations.
 
+## Millet carbs, compared honestly
+
+Approximate values per **100 g dry grain** from Indian food-composition references; varieties and sources differ, so treat these as ranges rather than label data.
+
+| Grain | Carbohydrate | Protein |
+| --- | --- | --- |
+| Foxtail millet / thinai / korralu | ~61 g | ~12 g |
+| Barnyard millet / kuthiraivali / oodalu | ~65 g | ~6–10 g |
+| Kodo millet / varagu / arikelu | ~66 g | ~8–10 g |
+| Little millet / samai / samalu | ~67 g | ~8 g |
+| Pearl millet / bajra / kambu / sajjalu | ~67 g | ~11–12 g |
+| Proso millet / panivaragu / varigalu | ~70 g | ~12 g |
+| Finger millet / ragi / kezhvaragu / ragulu | ~72 g | ~7 g |
+| Sorghum / jowar / cholam / jonnalu | ~72 g | ~10 g |
+| *For comparison: wheat (whole)* | *~71 g* | *~12 g* |
+| *For comparison: raw milled rice* | *~78 g* | *~7 g* |
+
+**The takeaway:** swapping rice for millet cuts total carbohydrate only modestly — dry millets run roughly 60–72 g carbs per 100 g against ~78 g for rice. Cooked, a cup of millet lands around **30–40 g carbs**, similar territory to a cup of cooked rice. Millets' genuine advantages are more fiber and protein than white rice, useful micronutrients, and slower-digesting starch — not a dramatically lower carb count. That is why they stay excluded on strict days and count as a reasonable gluten-free grain choice on a flexible day.
+
 ## Seasoning without hidden gluten or dairy
 
 Use plain turmeric, cumin, coriander, mustard seeds, pepper, chilli, curry leaves, ginger, garlic, herbs and lemon or lime as seasoning. Small culinary amounts of tamarind can be a practical adaptation; sweetened tamarind chutney is different.
