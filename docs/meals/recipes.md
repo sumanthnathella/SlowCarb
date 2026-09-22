@@ -213,6 +213,23 @@ Ferriss explicitly lists kimchi. Choose a confirmed vegetarian and gluten-free p
 
 **Approximate protein:** roughly 10–12 g per serving from the lentils, varying with the dal and portion. Add spiced boiled eggs or a pulse side for a larger protein serving. Jarred pasta sauces often contain added sugar or cheese — check labels if you use one instead of the lentil sauce.
 
+## Kambu dosa (pearl millet): a flexible-day recipe
+
+**Not a strict-day food.** “No rice” does not mean grain-free: kambu is pearl millet/bajra/sajjalu, a grain that stays outside the six strict days just like rice — see [millet carbs](../foods/staples-extras.md#millet-carbs-compared-honestly). It is naturally gluten-free and dairy-free, so it is a reasonable **flexible-day** choice and a better grain pick than a plain white-rice dosa for fiber and protein. This version uses more urad dal than many recipes for a better protein ratio.
+
+- 1 cup pearl millet (kambu/bajra), about 200 g
+- ½ cup urad dal, about 100 g
+- ½ teaspoon fenugreek/methi seeds
+- Salt to taste
+- A little oil for the pan
+
+1. Rinse and soak the millet in plenty of water for 6–8 hours or overnight; soak the urad dal with fenugreek separately for 3–4 hours. Refrigerate during long soaks in a warm kitchen.
+2. Drain. Grind the urad dal first until light and fluffy, then add the millet and grind to a smooth, pourable batter with water as needed. Add salt.
+3. Ferment 8–12 hours until risen and slightly tangy; timing depends on room temperature.
+4. Cook on a medium-hot tawa like an ordinary dosa, spreading thin. Use a little oil for crispness.
+
+**Flexible-day role:** serve with a sambar that carries a substantial dal portion, and chutney without added sugar. A couple of dosas is a meal portion, not an all-day snack. On strict days, the [mung-only pesarattu](#mung-only-pesarattu) is the grain-free option.
+
 ## Cooking and storage
 
 !!! warning "Store batches safely"

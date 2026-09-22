@@ -27,7 +27,7 @@ Use the [recipe portions](recipes.md) as starting points, not fixed calorie limi
 | 4 | Fixed breakfast | [Chipotle bean bowl](eating-out.md#chipotle-the-bean-bowl) | Fresh usili + cowpea curry + cauliflower + [peanut sundal](recipes.md#peanut-sundal-with-carrot-and-tomato) |
 | 5 | Fixed breakfast | [CAVA lentil bowl](eating-out.md#cava-the-lentil-bowl) | Usili + modified avial; add a tolerated pulse serving if needed |
 | 6 | Fixed breakfast | Frozen pappu portion + cabbage; or familiar keerai kootu + a vegetable side | [Zucchini noodles with peppers](recipes.md#zucchini-noodles-with-peppers-and-lentil-sauce) + lentil sauce + [peanut sundal](recipes.md#peanut-sundal-with-carrot-and-tomato) |
-| 7 | Fixed breakfast | Earlier portions frozen promptly, or a checked restaurant meal | A usual meal or a flexible gluten-free, dairy-free choice |
+| 7 | Fixed breakfast | Earlier portions frozen promptly, or a checked restaurant meal | A usual meal or a flexible gluten-free, dairy-free choice such as [kambu dosa](recipes.md#kambu-dosa-pearl-millet-a-flexible-day-recipe) |
 
 [View this schedule in the weekly Calendar](../calendar.md). Day 1 maps to Monday and Day 7 to Sunday; this is a reusable week without fixed dates.
 
