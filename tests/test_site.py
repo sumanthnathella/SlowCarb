@@ -66,7 +66,7 @@ class SiteTests(unittest.TestCase):
             "suran", "millet", "pesarattu", "aviyal", "sambhar mix", "frozen",
             "guvar", "ridge gourd", "papdi lilva", "wheat flour",
             "hemp hearts", "bagel seasoning", "spinach omelette", "shakshuka",
-            "zucchini", "peanut sundal", "skhug", "harissa",
+            "zucchini", "peanut sundal", "skhug", "harissa", "edamame",
         ):
             with self.subTest(term=term):
                 self.assertIn(term, text)
